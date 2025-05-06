@@ -1,0 +1,30 @@
+class Operaciones:
+    def _init_(self, valor1, valor2):
+        self.valor1 = valor1
+        self.valor2 = valor2
+
+    def sumar(self):
+        return self.valor1 + self.valor2
+
+    def restar(self):
+        return self.valor1 - self.valor2
+
+    def multiplicar(self):
+        return self.valor1 * self.valor2
+
+    def dividir(self):
+        try:
+            resultado = self.valor1 / self.valor2
+            return resultado
+        except ZeroDivisionError:
+            return "Error: No se puede dividir por cero"
+
+x = float(input("Ingrese el primer número: "))
+y = float(input("Ingrese el segundo número: "))
+
+mi_calculadora = Operaciones(x, y)
+
+print("El resultado de la suma es:", mi_calculadora.sumar())
+print("El resultado de la resta es:", mi_calculadora.restar())
+print("El resultado de la multiplicacion es:", mi_calculadora.multiplicar())
+print("El resultado de la division es:", mi_calculadora.dividir())
