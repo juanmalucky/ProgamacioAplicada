@@ -1,0 +1,57 @@
+class Calculadora:
+    def _init(self, num1, num2):  # <-- Corregido __init_
+        self.num1 = num1
+        self.num2 = num2
+
+    def sumar(self):
+        return self.num1 + self.num2
+
+    def restar(self):
+        return self.num1 - self.num2
+
+    def multiplicar(self):
+        return self.num1 * self.num2
+
+    def dividir(self):
+        try:
+            return self.num1 / self.num2
+        except ZeroDivisionError:
+            return "Error: No se puede dividir entre cero."
+
+# Función principal
+def main():
+    print("Calculadora en Python (OOP)")
+    
+    try:
+        num1 = float(input("Ingresa el primer número: "))
+        num2 = float(input("Ingresa el segundo número: "))
+    except ValueError:
+        print("Error: Debes ingresar números válidos.")
+        return
+    
+    calculadora = Calculadora(num1, num2)
+
+    print("\nOperaciones:")
+    print("1. Sumar")
+    print("2. Restar")
+    print("3. Multiplicar")
+    print("4. Dividir")
+
+    opcion = input("Elige una operación (1-4): ")
+
+    try:
+        if opcion == "1":
+            print("Resultado:", calculadora.sumar())
+        elif opcion == "2":
+            print("Resultado:", calculadora.restar())
+        elif opcion == "3":
+            print("Resultado:", calculadora.multiplicar())
+        elif opcion == "4":
+            print("Resultado:", calculadora.dividir())
+        else:
+            print("Opción no válida.")
+    except Exception as e:
+        print("Ocurrió un error durante la operación:", str(e))
+
+if _name_ == "_main":  # <-- Corregido __name_
+    main()
