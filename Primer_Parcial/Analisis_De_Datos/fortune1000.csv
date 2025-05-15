@@ -1,0 +1,1001 @@
+﻿Rank,Company,Sector,Industry,Location,Revenues,Profits,Employees
+1,Walmart,Retailing,General Merchandisers,"Bentonville,  AR",500343,9862,2300000
+2,Exxon Mobil,Energy,Petroleum Refining,"Irving,  TX",244363,19710,71200
+3,Berkshire Hathaway,Financials,Insurance: Property and Casualty (Stock),"Omaha,  NE",242137,44940,377000
+4,Apple,Technology,"Computers, Office Equipment","Cupertino,  CA",229234,48351,123000
+5,UnitedHealth Group,Health Care,Health Care: Insurance and Managed Care,"Minnetonka,  MN",201159,10558,260000
+6,McKesson,Wholesalers,Wholesalers: Health Care,"SF,  CA",198533,5070,64500
+7,CVS Health,Health Care,Health Care: Pharmacy and Other Services,"Woonsocket,  RI",184765,6622,203000
+8,Amazon.com,Retailing,Internet Services and Retailing,"Seattle,  WA",177866,3033,566000
+9,AT&T,Telecommunications,Telecommunications,"Dallas,  TX",160546,29450,254000
+10,General Motors,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Detroit,  MI",157311,-3864,180000
+11,Ford Motor,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Dearborn,  MI",156776,7602,202000
+12,AmerisourceBergen,Wholesalers,Wholesalers: Health Care,"Chesterbrook,  PA",153144,364,19500
+13,Chevron,Energy,Petroleum Refining,"San Ramon,  CA",134533,9195,51900
+14,Cardinal Health,Wholesalers,Wholesalers: Health Care,"Dublin,  OH",129976,1288,40400
+15,Costco,Retailing,General Merchandisers,"Issaquah,  WA",129025,2679,182000
+16,Verizon,Telecommunications,Telecommunications,"New York,  NY",126034,30101,155400
+17,Kroger,Food &  Drug Stores,Food and Drug Stores,"Cincinnati,  OH",122662,1907,449000
+18,General Electric,Industrials,Industrial Machinery,"Boston,  MA",122274,-5786,313000
+19,Walgreens Boots Alliance,Food &  Drug Stores,Food and Drug Stores,"Deerfield,  IL",118214,4078,290000
+20,JPMorgan Chase,Financials,Commercial Banks,"New York,  NY",113899,24441,252539
+21,Fannie Mae,Financials,Diversified Financials,"Leavenworth,  WA",112394,2463,7200
+22,Alphabet,Technology,Internet Services and Retailing,"Mountain View,  CA",110855,12662,80110
+23,Home Depot,Retailing,Specialty Retailers: Other,"Atlanta,  GA",100904,8630,413000
+24,Bank of America Corp.,Financials,Commercial Banks,"Charlotte,  NC",100264,18232,209376
+25,Express Scripts Holding,Health Care,Health Care: Pharmacy and Other Services,"St. Louis,  MO",100065,4517,26600
+26,Wells Fargo,Financials,Commercial Banks,"SF,  CA",97741,22183,262700
+27,Boeing,Aerospace &  Defense,Aerospace and Defense,"Chicago,  IL",93392,8197,140800
+28,Phillips 66,Energy,Petroleum Refining,"Houston,  TX",91568,5106,14600
+29,Anthem,Health Care,Health Care: Insurance and Managed Care,"Indianapolis,  IN",90040,3842,56000
+30,Microsoft,Technology,Computer Software,"Redmond,  WA",89950,21204,124000
+31,Valero Energy,Energy,Petroleum Refining,"San Antonio,  TX",88407,4065,10015
+32,Citigroup,Financials,Commercial Banks,"New York,  NY",87966,-6798,209000
+33,Comcast,Telecommunications,Telecommunications,"Philadelphia,  PA",84526,22714,164000
+34,IBM,Technology,Information Technology Services,"Armonk,  NY",79139,5753,397800
+35,Dell Technologies,Technology,"Computers, Office Equipment","Round Rock,  TX",78660,-3728,145000
+36,State Farm Insurance Cos.,Financials,Insurance: Property and Casualty (Mutual),"Bloomington,  IL",78331,2206,65664
+37,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick,  NJ",76450,1300,134000
+38,Freddie Mac,Financials,Diversified Financials,"McLean,  VA",74676,5625,6165
+39,Target,Retailing,General Merchandisers,"Minneapolis,  MN",71879,2934,345000
+40,Lowes,Retailing,Specialty Retailers: Other,"Mooresville,  NC",68619,3447,255000
+41,Marathon Petroleum,Energy,Petroleum Refining,"Findlay,  OH",67610,3432,43800
+42,Procter & Gamble,Household Products,Household and Personal Products,"Cincinnati,  OH",66217,15326,95000
+43,MetLife,Financials,"Insurance: Life, Health (stock)","New York,  NY",66153,4010,49000
+44,UPS,Transportation,"Mail, Package, and Freight Delivery","Atlanta,  GA",65872,4910,346415
+45,PepsiCo,"Food, Beverages &  Tobacco",Food Consumer Products,"Harrison,  NY",63525,4857,263000
+46,Intel,Technology,Semiconductors and Other Electronic Components,"Santa Clara,  CA",62761,9601,102700
+47,DowDuPont,Chemicals,Chemicals,"Midland,  Michigan",62683,1460,98000
+48,Archer Daniels Midland,"Food, Beverages &  Tobacco",Food Production,"Chicago,  IL",60828,1595,31300
+49,Aetna,Health Care,Health Care: Insurance and Managed Care,"Hartford,  CT",60535,1904,47950
+50,FedEx,Transportation,"Mail, Package, and Freight Delivery","Memphis,  TN",60319,2997,357000
+51,United Technologies,Aerospace &  Defense,Aerospace and Defense,"Farmington,  CT",59837,4552,204700
+52,Prudential Financial,Financials,"Insurance: Life, Health (stock)","Newark,  NJ",59689,7863,49705
+53,Albertsons Cos.,Food &  Drug Stores,Food and Drug Stores,"Boise,  ID",59678,-374,273000
+54,Sysco,Wholesalers,Wholesalers: Food and Grocery,"Houston,  TX",55371,1142,66500
+55,Disney,Media,Entertainment,"Burbank,  CA",55137,8980,199000
+56,Humana,Health Care,Health Care: Insurance and Managed Care,"Louisville,  KY",53767,2448,45900
+57,Pfizer,Health Care,Pharmaceuticals,"New York,  NY",52546,21308,90200
+58,HP,Technology,"Computers, Office Equipment","Palo Alto,  CA",52056,2526,49000
+59,Lockheed Martin,Aerospace &  Defense,Aerospace and Defense,"Bethesda,  MD",51048,2002,100000
+60,AIG,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",49520,-6084,49800
+61,Centene,Health Care,Health Care: Insurance and Managed Care,"St. Louis,  MO",48572,828,33700
+62,Cisco Systems,Technology,Network and Other Communications Equipment,"San Jose,  CA",48005,9609,72900
+63,HCA Healthcare,Health Care,Health Care: Medical Facilities,"Nashville,  TN",47653,2216,221491
+64,Energy Transfer Equity,Energy,Pipelines,"Dallas,  TX",47487,954,29486
+65,Caterpillar,Industrials,Construction and Farm Machinery,"Deerfield,  IL",45462,754,98400
+66,Nationwide,Financials,Insurance: Property and Casualty (Mutual),"Columbus,  OH",43940,246,33135
+67,Morgan Stanley,Financials,Commercial Banks,"New York,  NY",43642,6111,57633
+68,Liberty Mutual Insurance Group,Financials,Insurance: Property and Casualty (Stock),"Boston,  MA",42687,17,50000
+69,New York Life Insurance,Financials,"Insurance: Life, Health (Mutual)","New York,  NY",42296,1866,11114
+70,Goldman Sachs Group,Financials,Commercial Banks,"New York,  NY",42254,4286,36600
+71,American Airlines Group,Transportation,Airlines,"Fort Worth,  TX",42207,1919,126600
+72,Best Buy,Retailing,Specialty Retailers: Other,"Richfield,  MN",42151,1000,125000
+73,Cigna,Health Care,Health Care: Insurance and Managed Care,"Bloomfield,  CT",41616,2237,46000
+74,Charter Communications,Telecommunications,Telecommunications,"Stamford,  CT",41581,9895,94800
+75,Delta Air Lines,Transportation,Airlines,"Atlanta,  GA",41244,3577,86564
+76,Facebook,Technology,Internet Services and Retailing,"Menlo Park,  CA",40653,15934,25105
+77,Honeywell International,Industrials,"Electronics, Electrical Equip.","Morris Plains,  NJ",40534,1655,131000
+78,Merck,Health Care,Pharmaceuticals,"Kenilworth,  NJ",40122,2394,69000
+79,Allstate,Financials,Insurance: Property and Casualty (Stock),"Northbrook,  IL",38524,3189,42680
+80,Tyson Foods,"Food, Beverages &  Tobacco",Food Production,"Springdale,  AR",38260,1774,122000
+81,United Continental Holdings,Transportation,Airlines,"Chicago,  IL",37736,2131,89800
+82,Oracle,Technology,Computer Software,"Redwood City,  CA",37728,9335,138000
+83,Tech Data,Wholesalers,Wholesalers: Electronics and Office Equipment,"Clearwater,  FL",36775,116,14000
+84,TIAA,Financials,"Insurance: Life, Health (Mutual)","New York,  NY",36025,1049,16829
+85,TJX,Retailing,Specialty Retailers: Apparel,"Framingham,  MA",35865,2607,249000
+86,American Express,Financials,Diversified Financials,"New York,  NY",35583,2736,55000
+87,Coca-Cola,"Food, Beverages &  Tobacco",Beverages,"Atlanta,  GA",35410,1248,61800
+88,Publix Super Markets,Food &  Drug Stores,Food and Drug Stores,"Lakeland,  FL",34837,2291,193000
+89,Nike,Apparel,Apparel,"Beaverton,  OR",34350,4240,74400
+90,Andeavor,Energy,Petroleum Refining,"San Antonio,  TX",34204,1528,14300
+91,World Fuel Services,Energy,Energy,"Miami,  FL",33696,-171,5000
+92,Exelon,Energy,Utilities: Gas and Electric,"Chicago,  IL",33531,3770,34621
+93,Massachusetts Mutual Life Insurance,Financials,"Insurance: Life, Health (Mutual)","Springfield,  MA",33495,513,11811
+94,Rite Aid,Food &  Drug Stores,Food and Drug Stores,"Camp Hill,  PA",32845,4,70430
+95,ConocoPhillips,Energy,"Mining, Crude-Oil Production","Houston,  TX",32584,-855,11400
+96,CHS,"Food, Beverages &  Tobacco",Food Production,"Inver Grove Heights,  MN",31935,127,11626
+97,3M,Industrials,Miscellaneous,"St Paul,  MN",31657,4858,91536
+98,Time Warner,Media,Entertainment,"New York,  NY",31271,5247,26000
+99,General Dynamics,Aerospace &  Defense,Aerospace and Defense,"Falls Church,  VA",30973,2912,98600
+100,USAA,Financials,Insurance: Property and Casualty (Stock),"San Antonio,  TX",30016,2421,32705
+101,Capital One Financial,Financials,Commercial Banks,"McLean,  VA",29999,1982,49300
+102,Deere,Industrials,Construction and Farm Machinery,"Moline,  IL",29738,2159,60476
+103,INTL FCStone,Financials,Diversified Financials,"New York,  NY",29424,6,1607
+104,Northwestern Mutual,Financials,"Insurance: Life, Health (Mutual)","Milwaukee,  WI",29331,1017,5437
+105,Enterprise Products Partners,Energy,Pipelines,"Houston,  TX",29242,2799,7000
+106,Travelers Cos.,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",28902,2056,30800
+107,Hewlett Packard Enterprise,Technology,"Computers, Office Equipment","Palo Alto,  CA",28871,344,66000
+108,Philip Morris International,"Food, Beverages &  Tobacco",Tobacco,"New York,  NY",28748,6035,80600
+109,Twenty-First Century Fox,Media,Entertainment,"New York,  NY",28500,2952,21700
+110,AbbVie,Health Care,Pharmaceuticals,"North Chicago,  IL",28216,5309,29000
+111,Abbott Laboratories,Health Care,Medical Products and Equipment,"Lake Bluff,  IL",27390,477,99000
+112,Progressive,Financials,Insurance: Property and Casualty (Stock),"Mayfield,  OH",26839,1592,33656
+113,Arrow Electronics,Wholesalers,Wholesalers: Electronics and Office Equipment,"Centennial,  CO",26813,402,18800
+114,Kraft Heinz,"Food, Beverages &  Tobacco",Food Consumer Products,"Pittsburgh,  PA",26232,10999,39000
+115,Plains GP Holdings,Energy,Pipelines,"Houston,  TX",26223,-731,4850
+116,Gilead Sciences,Health Care,Pharmaceuticals,"San Mateo,  CA",26107,4628,10000
+117,Mondelez International,"Food, Beverages &  Tobacco",Food Consumer Products,"Deerfield,  IL",25896,2922,83000
+118,Northrop Grumman,Aerospace &  Defense,Aerospace and Defense,"Falls Church,  VA",25803,2015,70000
+119,Raytheon,Aerospace &  Defense,Aerospace and Defense,"Waltham,  MA",25348,2024,64000
+120,Macys,Retailing,General Merchandisers,"Cincinnati,  OH",24837,1547,130000
+121,US Foods Holding,Wholesalers,Wholesalers: Food and Grocery,"Rosemont,  IL",24147,444,25204
+122,U.S. Bancorp,Financials,Commercial Banks,"Minneapolis,  MN",23996,6218,72402
+123,Dollar General,Retailing,Specialty Retailers: Other,"Goodlettsville,  TN",23471,1539,129000
+124,International Paper,Materials,"Packaging, Containers","Memphis,  TN",23302,2144,56000
+125,Duke Energy,Energy,Utilities: Gas and Electric,"Charlotte,  NC",23189,3059,29060
+126,Southern,Energy,Utilities: Gas and Electric,"Atlanta,  GA",23031,842,31344
+127,Marriott International,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Bethesda,  MD",22894,1372,177000
+128,Avnet,Wholesalers,Wholesalers: Electronics and Office Equipment,"Phoenix,  AZ",22872,525,15700
+129,Eli Lilly,Health Care,Pharmaceuticals,"Indianapolis,  IN",22871,-205,40655
+130,Amgen,Health Care,Pharmaceuticals,"Thousand Oaks,  CA",22849,1979,20800
+131,McDonalds,"Hotels, Restaurants &  Leisure",Food Services,"Oak Brook,  IL",22820,5192,235000
+132,Starbucks,"Hotels, Restaurants &  Leisure",Food Services,"Seattle,  WA",22387,2884,277000
+133,Qualcomm,Technology,Semiconductors and Other Electronic Components,"San Diego,  CA",22291,2466,33800
+134,Dollar Tree,Retailing,Specialty Retailers: Other,"Chesapeake,  VA",22246,1714,116200
+135,PBF Energy,Energy,Petroleum Refining,"Parsippany-Troy Hills,  NJ",21787,415,3165
+136,Icahn Enterprises,Financials,Diversified Financials,"New York,  NY",21744,2430,89034
+137,Aflac,Financials,"Insurance: Life, Health (stock)","Columbus,  GA",21667,4604,11318
+138,AutoNation,Retailing,"Automotive Retailing, Services","Fort Lauderdale,  FL",21535,434,26000
+139,Penske Automotive Group,Retailing,"Automotive Retailing, Services","Bloomfield Hills,  MI",21389,613,26000
+140,Whirlpool,Industrials,"Electronics, Electrical Equip.","Benton Harbor,  MI",21253,350,92000
+141,Union Pacific,Transportation,Railroads,"Omaha,  NE",21240,10712,41992
+142,Southwest Airlines,Transportation,Airlines,"Dallas,  TX",21171,3488,56110
+143,ManpowerGroup,Business Services,Temporary Help,"Milwaukee,  WI",21034,545,29000
+144,Thermo Fisher Scientific,Technology,"Scientific,Photographic and  Control Equipment","Waltham,  MA",20918,2225,66100
+145,Bristol-Myers Squibb,Health Care,Pharmaceuticals,"New York,  NY",20776,1007,23700
+146,Halliburton,Energy,"Oil and Gas Equipment, Services","Houston,  TX",20620,-463,55000
+147,Tenet Healthcare,Health Care,Health Care: Medical Facilities,"Dallas,  TX",20613,-704,111980
+148,Lear,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Southfield,  MI",20467,1313,165000
+149,Cummins,Industrials,Industrial Machinery,"Columbus,  IN",20428,999,58600
+150,Micron Technology,Technology,Semiconductors and Other Electronic Components,"Boise,  ID",20322,5089,34100
+151,Nucor,Materials,Metals,"Charlotte,  NC",20252,1318,25100
+152,Molina Healthcare,Health Care,Health Care: Insurance and Managed Care,"Long Beach,  CA",19883,-512,20000
+153,Fluor,Engineering &  Construction,"Engineering, Construction","Irving,  TX",19521,191,56706
+154,Altria Group,"Food, Beverages &  Tobacco",Tobacco,"Richmond,  VA",19494,10222,8300
+155,Paccar,Industrials,Construction and Farm Machinery,"Bellevue,  WA",19456,1675,25000
+156,Hartford Financial Services,Financials,Insurance: Property and Casualty (Stock),"Hartford,  CT",19228,-3131,16400
+157,Kohls,Retailing,General Merchandisers,"Menomonee Falls,  WI",19095,859,85000
+158,Western Digital,Technology,"Computers, Office Equipment","San Jose,  CA",19093,397,67629
+159,Jabil,Technology,Semiconductors and Other Electronic Components,"St. Petersburg,  FL",19063,129,170000
+160,Community Health Systems,Health Care,Health Care: Medical Facilities,"Franklin,  TN",18477,-2459,86000
+161,Visa,Business Services,Financial Data Services,"SF,  CA",18358,6699,15000
+162,Danaher,Health Care,Medical Products and Equipment,"Leavenworth,  WA",18330,2492,67000
+163,Kimberly-Clark,Household Products,Household and Personal Products,"Irving,  TX",18259,2278,42000
+164,AECOM,Engineering &  Construction,"Engineering, Construction","Los Angeles,  CA",18203,339,87000
+165,PNC Financial Services,Financials,Commercial Banks,"Pittsburgh,  PA",18035,5338,51632
+166,CenturyLink,Telecommunications,Telecommunications,"Monroe,  LA",17656,1389,51000
+167,NextEra Energy,Energy,Utilities: Gas and Electric,"North Palm Beach,  FL",17195,5378,14000
+168,PG& E Corp.,Energy,Utilities: Gas and Electric,"SF,  CA",17135,1646,23000
+169,Synnex,Wholesalers,Wholesalers: Electronics and Office Equipment,"Fremont,  CA",17046,301,113600
+170,WellCare Health Plans,Health Care,Health Care: Insurance and Managed Care,"Tampa,  FL",17007,373,8900
+171,Performance Food Group,Wholesalers,Wholesalers: Food and Grocery,"Richmond,  VA",16762,96,14000
+172,Sears Holdings,Retailing,General Merchandisers,"Hoffman Estates,  IL",16702,-383,89000
+173,Synchrony Financial,Financials,Diversified Financials,"Stamford,  CT",16695,1935,16000
+174,CarMax,Retailing,"Automotive Retailing, Services","Richmond,  VA",16637,627,24344
+175,Bank of New York Mellon,Financials,Commercial Banks,"New York City,  NY",16621,4090,52500
+176,Freeport-McMoRan,Energy,"Mining, Crude-Oil Production","Phoenix,  AZ",16416,1817,25200
+177,Genuine Parts,Wholesalers,Wholesalers: Diversified,"Atlanta,  GA",16309,616,48000
+178,Emerson Electric,Industrials,Industrial Machinery,"St. Louis,  MO",16301,1518,76500
+179,DaVita,Health Care,Health Care: Medical Facilities,"Denver,  CO",16038,663,74500
+180,Supervalu,Food &  Drug Stores,Food and Drug Stores,"Eden Prairie,  MN",16009,650,29000
+181,Gap,Retailing,Specialty Retailers: Apparel,"SF,  CA",15855,848,135000
+182,General Mills,"Food, Beverages &  Tobacco",Food Consumer Products,"Minneapolis,  MN",15620,1657,38000
+183,Nordstrom,Retailing,General Merchandisers,"Seattle,  WA",15478,437,76000
+184,Colgate-Palmolive,Household Products,Household and Personal Products,"New York,  NY",15454,2024,35900
+185,American Electric Power,Energy,Utilities: Gas and Electric,"Columbus,  OH",15425,1912,17666
+186,XPO Logistics,Transportation,Transportation and Logistics,"Greenwich,  CT",15381,340,95000
+187,Goodyear Tire & Rubber,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Akron,  OH",15377,346,64000
+188,Omnicom Group,Business Services,"Advertising, marketing","New York,  NY",15274,1088,77300
+189,CDW,Technology,Information Technology Services,"Lincolnshire,  IL",15192,523,8726
+190,Sherwin-Williams,Chemicals,Chemicals,"Cleveland,  OH",14984,1772,52695
+191,PPG Industries,Chemicals,Chemicals,"Pittsburgh,  PA",14967,1591,47200
+192,Texas Instruments,Technology,Semiconductors and Other Electronic Components,"Dallas,  TX",14961,3682,29714
+193,C.H. Robinson Worldwide,Transportation,Transportation and Logistics,"Eden Prairie,  MN",14869,504,15074
+194,WestRock,Materials,"Packaging, Containers","Atlanta,  GA",14860,708,44800
+195,Cognizant Technology Solutions,Technology,Information Technology Services,"Teaneck,  NJ",14810,1504,260000
+196,Newell Brands,Household Products,"Home Equipment, Furnishings","Hoboken,  NJ",14742,2748,49000
+197,CBS,Media,Entertainment,"New York,  NY",14710,357,14715
+198,Envision Healthcare,Health Care,Health Care: Pharmacy and Other Services,"Nashville,  TN",14701,-228,57750
+199,Monsanto,Chemicals,Chemicals,"St. Louis,  MO",14640,2260,21900
+200,Aramark,Business Services,Diversified Outsourcing Services,"Philadelphia,  PA",14604,373,215000
+201,Applied Materials,Technology,Semiconductors and Other Electronic Components,"Santa Clara,  CA",14537,3434,18400
+202,Waste Management,Business Services,Waste Management,"Houston,  TX",14485,1949,42300
+203,DISH Network,Telecommunications,Telecommunications,"Englewood,  CO",14391,2098,17000
+204,Illinois Tool Works,Industrials,Industrial Machinery,"Glenview,  IL",14314,1687,50000
+205,Lincoln National,Financials,"Insurance: Life, Health (stock)","Wayne,  PA",14257,2079,9047
+206,HollyFrontier,Energy,Petroleum Refining,"Dallas,  TX",14251,805,3522
+207,CBRE Group,Financials,Real estate,"Los Angeles,  CA",14210,691,80000
+208,Textron,Aerospace &  Defense,Aerospace and Defense,"Providence,  RI",14198,307,37000
+209,Ross Stores,Retailing,Specialty Retailers: Apparel,"Dublin,  CA",14135,1362,82700
+210,Principal Financial,Financials,"Insurance: Life, Health (stock)","Des Moines,  IA",14093,2310,15378
+211,D.R. Horton,Engineering &  Construction,Homebuilders,"Arlington,  TX",14091,1038,7735
+212,Marsh & McLennan,Financials,Diversified Financials,"New York,  NY",14024,1492,64000
+213,Devon Energy,Energy,"Mining, Crude-Oil Production","Oklahoma City,  OK",13949,898,3414
+214,AES,Energy,Utilities: Gas and Electric,"Arlington,  VA",13850,-1161,10500
+215,Ecolab,Chemicals,Chemicals,"St Paul,  MN",13838,1508,48400
+216,Land O'Lakes,"Food, Beverages &  Tobacco",Food Consumer Products,"Arden Hills,  MN",13740,314,10000
+217,Loews,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",13735,1164,18100
+218,Kinder Morgan,Energy,Pipelines,"Houston,  TX",13705,183,10897
+219,FirstEnergy,Energy,Utilities: Gas and Electric,"Akron,  OH",13627,-1724,15617
+220,Occidental Petroleum,Energy,"Mining, Crude-Oil Production","Houston,  TX",13274,1311,11000
+221,Viacom,Media,Entertainment,"New York,  NY",13263,1874,11200
+222,PayPal Holdings,Business Services,Financial Data Services,"San Jose,  CA",13094,1795,18700
+223,NGL Energy Partners,Energy,Energy,"Tulsa,  OK",13022,137,2700
+224,Celgene,Health Care,Pharmaceuticals,"Summit,  NJ",13003,2940,7467
+225,Arconic,Aerospace &  Defense,Aerospace and Defense,"New York,  NY",12960,-74,41500
+226,Kellogg,"Food, Beverages &  Tobacco",Food Consumer Products,"Battle Creek,  MI",12923,1269,32944
+227,Las Vegas Sands,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",12882,2806,50500
+228,Stanley Black & Decker,Household Products,"Home Equipment, Furnishings","New Britain,  CT",12747,1226,57765
+229,Booking Holdings,Technology,Internet Services and Retailing,"Norwalk,  CT",12681,2340,22900
+230,Lennar,Engineering &  Construction,Homebuilders,"Miami,  FL",12646,810,9111
+231,L Brands,Retailing,Specialty Retailers: Apparel,"Columbus,  OH",12632,983,59200
+232,DTE Energy,Energy,Utilities: Gas and Electric,"Detroit,  MI",12607,1134,10200
+233,Dominion Energy,Energy,Utilities: Gas and Electric,"Richmond,  VA",12586,2999,16200
+234,Reinsurance Group of America,Financials,"Insurance: Life, Health (stock)","Chesterfield,  MO",12516,1822,2640
+235,J.C. Penney,Retailing,General Merchandisers,"Plano,  TX",12506,-116,98000
+236,Mastercard,Business Services,Financial Data Services,"Harrison,  NY",12497,3915,13400
+237,BlackRock,Financials,Securities,"New York,  NY",12491,4970,13900
+238,Henry Schein,Wholesalers,Wholesalers: Health Care,"Melville,  NY",12462,406,22000
+239,Guardian Life Ins. Co. of America,Financials,"Insurance: Life, Health (Mutual)","New York,  NY",12455,455,9283
+240,Stryker,Health Care,Medical Products and Equipment,"Kalamazoo,  MI",12444,1020,33000
+241,Jefferies Financial Group,Financials,Diversified Financials,"New York,  NY",12408,171,12700
+242,VF,Apparel,Apparel,"Greensboro,  NC",12400,614,69000
+243,ADP,Business Services,Diversified Outsourcing Services,"Roseland,  NJ",12380,1733,58000
+244,Edison International,Energy,Utilities: Gas and Electric,"Rosemead,  CA",12320,565,12521
+245,Biogen,Health Care,Pharmaceuticals,"Cambridge,  MA",12274,2539,7300
+246,United States Steel,Materials,Metals,"Pittsburgh,  PA",12250,387,29200
+247,Core-Mark Holding,Wholesalers,Wholesalers: Food and Grocery,"South San Francisco,  CA",12225,33,8413
+248,Bed Bath & Beyond,Retailing,Specialty Retailers: Other,"Union,  NJ",12216,685,65000
+249,Oneok,Energy,Pipelines,"Tulsa,  OK",12174,387,2470
+250,BB& T Corp.,Financials,Commercial Banks,"Winston-Salem,  NC",12156,2394,36484
+251,Becton Dickinson,Health Care,Medical Products and Equipment,"Franklin Lakes,  NJ",12093,1100,41933
+252,Ameriprise Financial,Financials,Diversified Financials,"Minneapolis,  MN",12075,1480,13312
+253,Farmers Insurance Exchange,Financials,Insurance: Property and Casualty (Mutual),"Los Angeles,  CA",12072,-66,13015
+254,First Data,Business Services,Financial Data Services,"New York,  NY",12052,1465,22000
+255,Consolidated Edison,Energy,Utilities: Gas and Electric,"New York,  NY",12033,1525,15591
+256,Parker-Hannifin,Industrials,Industrial Machinery,"Cleveland,  OH",12029,983,56690
+257,Anadarko Petroleum,Energy,"Mining, Crude-Oil Production","The Woodlands,  TX",11908,-456,4400
+258,Estee Lauder,Household Products,Household and Personal Products,"New York,  NY",11824,1249,46000
+259,State Street Corp.,Financials,Commercial Banks,"Boston,  MA",11774,2177,36643
+260,Tesla,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Palo Alto,  CA",11759,-1962,37543
+261,Netflix,Technology,Internet Services and Retailing,"Los Gatos,  CA",11693,558,5100
+262,Alcoa,Materials,Metals,"Pittsburgh,  PA",11652,217,14600
+263,Discover Financial Services,Financials,Commercial Banks,"Riverwoods,  IL",11545,2099,16500
+264,Praxair,Chemicals,Chemicals,"Danbury,  CT",11437,1247,26461
+265,CSX,Transportation,Railroads,"Jacksonville,  FL",11408,5471,24006
+266,Xcel Energy,Energy,Utilities: Gas and Electric,"Minneapolis,  MN",11404,1148,11105
+267,Unum Group,Financials,"Insurance: Life, Health (stock)","Chattanooga,  TN",11287,994,9400
+268,Universal Health Services,Health Care,Health Care: Medical Facilities,"King of Prussia,  PA",11279,752,72300
+269,NRG Energy,Energy,Energy,"Princeton,  NJ",11275,-2153,5940
+270,EOG Resources,Energy,"Mining, Crude-Oil Production","Houston,  TX",11208,2582,2664
+271,Sempra Energy,Energy,Utilities: Gas and Electric,"San Diego,  CA",11207,256,16046
+272,Toys 'R' Us,Retailing,Specialty Retailers: Other,"Wayne,  NJ",11146,-612,65000
+273,Group 1 Automotive,Retailing,"Automotive Retailing, Services","Houston,  TX",11124,213,14108
+274,Entergy,Energy,Utilities: Gas and Electric,"New Orleans,  LA",11075,411,13504
+275,Molson Coors Brewing,"Food, Beverages &  Tobacco",Beverages,"Denver,  CO",11003,1414,17200
+276,L3 Technologies,Aerospace &  Defense,Aerospace and Defense,"New York,  NY",11002,677,38000
+277,Ball,Materials,"Packaging, Containers","Broomfield,  CO",10983,374,18300
+278,AutoZone,Retailing,Specialty Retailers: Other,"Memphis,  TN",10889,1280,70035
+279,Murphy USA,Retailing,Specialty Retailers: Other,"El Dorado,  AR",10853,245,6900
+280,MGM Resorts International,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",10774,1960,68500
+281,Office Depot,Retailing,Specialty Retailers: Other,"Boca Raton,  FL",10752,181,45000
+282,Huntsman,Chemicals,Chemicals,"The Woodlands,  TX",10592,636,10000
+283,Baxter International,Health Care,Medical Products and Equipment,"Deerfield,  IL",10561,717,47000
+284,Norfolk Southern,Transportation,Railroads,"Norfolk,  VA",10551,5404,27110
+285,salesforce.com,Technology,Computer Software,"SF,  CA",10480,127,29000
+286,Laboratory Corp. of America,Health Care,Health Care: Pharmacy and Other Services,"Burlington,  NC",10441,1268,60000
+287,W.W. Grainger,Wholesalers,Wholesalers: Diversified,"Lake Forest,  IL",10425,585,25050
+288,Qurate Retail,Retailing,Internet Services and Retailing,"Englewood,  CO",10404,2441,28255
+289,Autoliv,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Auburn Hills,  MI",10383,427,67352
+290,Live Nation Entertainment,Media,Entertainment,"Beverly Hills,  CA",10337,-6,15050
+291,Xerox,Technology,"Computers, Office Equipment","Norwalk,  CT",10265,195,36100
+292,Leidos Holdings,Technology,Information Technology Services,"Reston,  VA",10170,366,31000
+293,Corning,Industrials,"Electronics, Electrical Equip.","Corning,  NY",10116,-497,46200
+294,Lithia Motors,Retailing,"Automotive Retailing, Services","Medford,  OR",10087,245,12899
+295,Expedia Group,Retailing,Internet Services and Retailing,"Bellevue,  WA",10060,378,22615
+296,Republic Services,Business Services,Waste Management,"Phoenix,  AZ",10042,1278,35000
+297,Jacobs Engineering Group,Engineering &  Construction,"Engineering, Construction","Dallas,  TX",10023,293,49750
+298,Sonic Automotive,Retailing,"Automotive Retailing, Services","Charlotte,  NC",9867,93,9750
+299,Ally Financial,Financials,Diversified Financials,"Detroit,  MI",9866,929,7900
+300,LKQ,Wholesalers,Wholesalers: Diversified,"Chicago,  IL",9848,533,43000
+301,BorgWarner,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Auburn Hills,  MI",9799,439,29000
+302,Fidelity National Financial,Financials,Insurance: Property and Casualty (Stock),"Jacksonville,  FL",9769,771,24525
+303,SunTrust Banks,Financials,Commercial Banks,"Atlanta,  GA",9741,2273,23785
+304,IQVIA Holdings,Health Care,Health Care: Pharmacy and Other Services,"Durham,  NC",9739,1309,55000
+305,Reliance Steel & Aluminum,Materials,Metals,"Los Angeles,  CA",9721,613,14900
+306,Nvidia,Technology,Semiconductors and Other Electronic Components,"Santa Clara,  CA",9714,3047,11528
+307,Voya Financial,Financials,Diversified Financials,"New York,  NY",9660,-2992,6300
+308,CenterPoint Energy,Energy,Utilities: Gas and Electric,"Houston,  TX",9614,1792,7977
+309,eBay,Technology,Internet Services and Retailing,"San Jose,  CA",9567,-1016,14100
+310,Eastman Chemical,Chemicals,Chemicals,"Kingsport,  TN",9549,1384,14000
+311,American Family Insurance Group,Financials,Insurance: Property and Casualty (Stock),"Madison,  WI",9545,155,11307
+312,Steel Dynamics,Materials,Metals,"Fort Wayne,  IN",9539,812,7635
+313,Pacific Life,Financials,"Insurance: Life, Health (stock)","Newport Beach,  CA",9510,1365,3578
+314,Chesapeake Energy,Energy,"Mining, Crude-Oil Production","Oklahoma City,  OK",9496,949,3200
+315,Mohawk Industries,Household Products,"Home Equipment, Furnishings","Calhoun,  GA",9491,971,38800
+316,Quanta Services,Engineering &  Construction,"Engineering, Construction","Houston,  TX",9467,315,32800
+317,Advance Auto Parts,Retailing,Specialty Retailers: Other,"Roanoke,  VA",9374,475,55500
+318,Owens & Minor,Wholesalers,Wholesalers: Health Care,"Mechanicsville,  VA",9318,72,8600
+319,United Natural Foods,Wholesalers,Wholesalers: Food and Grocery,"Providence,  RI",9275,130,9700
+320,Tenneco,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Lake Forest,  IL",9274,207,32000
+321,Conagra Brands,"Food, Beverages &  Tobacco",Food Consumer Products,"Chicago,  IL",9235,639,12600
+322,GameStop,Retailing,Specialty Retailers: Other,"Grapevine,  TX",9225,34,39500
+323,Hormel Foods,"Food, Beverages &  Tobacco",Food Consumer Products,"Austin,  MN",9168,846,20200
+324,Hilton Worldwide Holdings,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","McLean,  VA",9140,1259,163000
+325,Frontier Communications,Telecommunications,Telecommunications,"Norwalk,  CT",9128,-1804,22736
+326,Fidelity National Information Services,Business Services,Financial Data Services,"Jacksonville,  FL",9123,1319,53000
+327,Public Service Enterprise Group,Energy,Utilities: Gas and Electric,"Newark,  NJ",9084,1574,12945
+328,Boston Scientific,Health Care,Medical Products and Equipment,"Marlboro,  MA",9048,104,29000
+329,OReilly Automotive,Retailing,Specialty Retailers: Other,"Springfield,  MO",8978,1133,60365
+330,Charles Schwab,Financials,Securities,"SF,  CA",8960,2354,17600
+331,Global Partners,Wholesalers,Wholesalers: Diversified,"Waltham,  MA",8921,58,2000
+332,PVH,Apparel,Apparel,"New York,  NY",8915,537,28050
+333,Avis Budget Group,Retailing,"Automotive Retailing, Services","Parsippany-Troy Hills,  NJ",8848,361,26300
+334,Targa Resources,Energy,Pipelines,"Houston,  TX",8815,54,2130
+335,Hertz Global Holdings,Retailing,"Automotive Retailing, Services","Estero,  FL",8803,327,37000
+336,Calpine,Energy,Energy,"Houston,  TX",8752,-339,2290
+337,Mutual of Omaha Insurance,Financials,"Insurance: Life, Health (stock)","Omaha,  NE",8732,862,5896
+338,Crown Holdings,Materials,"Packaging, Containers","Philadelphia,  PA",8698,323,24342
+339,Peter Kiewit Sons,Engineering &  Construction,"Engineering, Construction","Omaha,  NE",8678,371,22000
+340,Dicks Sporting Goods,Retailing,Specialty Retailers: Other,"Coraopolis,  PA",8591,323,30300
+341,PulteGroup,Engineering &  Construction,Homebuilders,"Atlanta,  GA",8573,447,4810
+342,Navistar International,Industrials,Construction and Farm Machinery,"Lisle,  IL",8570,30,11400
+343,Thrivent Financial for Lutherans,Financials,"Insurance: Life, Health (Mutual)","Minneapolis,  MN",8528,558,3622
+344,DCP Midstream,Energy,Pipelines,"Denver,  CO",8462,229,2650
+345,Air Products & Chemicals,Chemicals,Chemicals,"Allentown,  PA",8442,3000,15150
+346,Veritiv,Wholesalers,Wholesalers: Diversified,"Atlanta,  GA",8365,-14,8900
+347,AGCO,Industrials,Construction and Farm Machinery,"Duluth,  GA",8307,186,20462
+348,Genworth Financial,Financials,"Insurance: Life, Health (stock)","Richmond,  VA",8295,817,3500
+349,Univar,Wholesalers,Wholesalers: Diversified,"Downers Grove,  IL",8254,119,8600
+350,News Corp.,Media,"Publishing, Printing","New York,  NY",8139,-738,26000
+351,SpartanNash,Wholesalers,Wholesalers: Food and Grocery,"Byron Center,  MI",8128,-53,11950
+352,Westlake Chemical,Chemicals,Chemicals,"Houston,  TX",8041,1304,8799
+353,Williams,Energy,Energy,"Tulsa,  OK",8031,2174,5425
+354,Lam Research,Technology,Semiconductors and Other Electronic Components,"Fremont,  CA",8014,1697,9400
+355,Alaska Air Group,Transportation,Airlines,"Seattle,  WA",7933,1034,23156
+356,Jones Lang LaSalle,Financials,Real estate,"Chicago,  IL",7932,254,81900
+357,Anixter International,Wholesalers,Wholesalers: Electronics and Office Equipment,"Glenview,  IL",7927,109,8900
+358,Campbell Soup,"Food, Beverages &  Tobacco",Food Consumer Products,"Camden,  NJ",7890,887,18000
+359,Interpublic Group,Business Services,"Advertising, marketing","New York,  NY",7882,579,50200
+360,Dover,Industrials,Industrial Machinery,"Downers Grove,  IL",7830,811,29000
+361,Zimmer Biomet Holdings,Health Care,Medical Products and Equipment,"Warsaw,  IN",7824,1813,18200
+362,Dean Foods,"Food, Beverages &  Tobacco",Food Consumer Products,"Dallas,  TX",7795,61,16000
+363,Foot Locker,Retailing,Specialty Retailers: Apparel,"New York,  NY",7782,284,32175
+364,Eversource Energy,Energy,Utilities: Gas and Electric,"Springfield,  MA",7752,988,8084
+365,Alliance Data Systems,Business Services,Financial Data Services,"Plano,  TX",7719,788,20000
+366,Fifth Third Bancorp,Financials,Commercial Banks,"Cincinnati,  OH",7713,2194,18125
+367,Quest Diagnostics,Health Care,Health Care: Pharmacy and Other Services,"Secaucus,  NJ",7709,772,45000
+368,EMCOR Group,Engineering &  Construction,"Engineering, Construction","Norwalk,  CT",7688,227,32000
+369,W.R. Berkley,Financials,Insurance: Property and Casualty (Stock),"Greenwich,  CT",7685,549,7722
+370,WESCO International,Wholesalers,Wholesalers: Diversified,"Pittsburgh,  PA",7679,163,9100
+371,Coty,Household Products,Household and Personal Products,"New York,  NY",7650,-423,22000
+372,WEC Energy Group,Energy,Utilities: Gas and Electric,"Milwaukee,  WI",7649,1203,8129
+373,Masco,Household Products,"Home Equipment, Furnishings","Livonia,  MI",7644,533,26000
+374,DXC Technology,Technology,Information Technology Services,"Tysons,  VA",7607,-123,60000
+375,Auto-Owners Insurance,Financials,Insurance: Property and Casualty (Mutual),"Lansing,  MI",7604,645,5227
+376,Jones Financial (Edward Jones),Financials,Securities,"Des Peres,  MO",7597,872,45000
+377,Liberty Media,Media,Entertainment,"Englewood,  CO",7594,1354,4393
+378,Erie Insurance Group,Financials,Insurance: Property and Casualty (Mutual),"Erie,  PA",7535,857,5260
+379,Hershey,"Food, Beverages &  Tobacco",Food Consumer Products,"Hershey,  PA",7515,783,16135
+380,PPL,Energy,Utilities: Gas and Electric,"Allentown,  PA",7447,1128,12512
+381,Huntington Ingalls Industries,Aerospace &  Defense,Aerospace and Defense,"Newport News,  VA",7441,479,38000
+382,Mosaic,Chemicals,Chemicals,"Plymouth,  MN",7409,-108,8500
+383,J.M. Smucker,"Food, Beverages &  Tobacco",Food Consumer Products,"Orrville,  OH",7392,592,7140
+384,Delek US Holdings,Energy,Petroleum Refining,"Brentwood,  TN",7350,288,3941
+385,Newmont Mining,Energy,"Mining, Crude-Oil Production","Greenwood Village,  CO",7348,-98,12569
+386,Constellation Brands,"Food, Beverages &  Tobacco",Beverages,"Victor,  NY",7332,1535,8700
+387,Ryder System,Transportation,"Trucking, Truck Leasing","Miami,  FL",7330,790,36100
+388,National Oilwell Varco,Energy,"Oil and Gas Equipment, Services","Houston,  TX",7304,-237,31605
+389,Adobe Systems,Technology,Computer Software,"San Jose,  CA",7302,1694,17973
+390,LifePoint Health,Health Care,Health Care: Medical Facilities,"Brentwood,  TN",7263,102,42000
+391,Tractor Supply,Retailing,Specialty Retailers: Other,"Brentwood,  TN",7256,422,21000
+392,Thor Industries,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Elkhart,  IN",7247,374,17800
+393,Dana,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Maumee,  OH",7209,111,30100
+394,Weyerhaeuser,Materials,Forest and Paper Products,"Seattle,  WA",7196,582,9300
+395,J.B. Hunt Transport Services,Transportation,"Trucking, Truck Leasing","Lowell,  AR",7190,686,24681
+396,Darden Restaurants,"Hotels, Restaurants &  Leisure",Food Services,"Orlando,  FL",7170,479,178729
+397,Yum China Holdings,"Hotels, Restaurants &  Leisure",Food Services,"Plano,  TX",7144,403,450000
+398,Blackstone Group,Financials,Diversified Financials,"New York,  NY",7119,1470,2360
+399,Berry Global Group,Materials,"Packaging, Containers","Evansville,  IN",7095,340,23000
+400,Builders FirstSource,Materials,"Building Materials, Glass","Dallas,  TX",7034,38,15000
+401,Activision Blizzard,Technology,Entertainment,"Santa Monica,  CA",7017,273,9800
+402,JetBlue Airways,Transportation,Airlines,",  NY",7015,1147,17424
+403,Amphenol,Technology,Network and Other Communications Equipment,"Wallingford,  CT",7011,650,70000
+404,A-Mark Precious Metals,Materials,Miscellaneous,"El Segundo,  CA",6990,7,126
+405,Spirit AeroSystems Holdings,Aerospace &  Defense,Aerospace and Defense,"Wichita,  KS",6983,354,15500
+406,R.R. Donnelley & Sons,Media,"Publishing, Printing","Chicago,  IL",6940,-35,42700
+407,Harris,Aerospace &  Defense,Aerospace and Defense,"Melbourne,  FL",6939,553,17000
+408,Expeditors Intl. of Washington,Transportation,Transportation and Logistics,"Seattle,  WA",6921,489,16500
+409,Discovery,Media,Entertainment,"Silver Spring,  MD",6873,-337,7000
+410,Owens-Illinois,Materials,"Packaging, Containers","Perrysburg,  OH",6869,180,26500
+411,Sanmina,Technology,Semiconductors and Other Electronic Components,"San Jose,  CA",6869,138,41250
+412,KeyCorp,Financials,Commercial Banks,"Cleveland,  OH",6868,1296,18415
+413,American Financial Group,Financials,Insurance: Property and Casualty (Stock),"Cincinnati,  OH",6865,475,7600
+414,Oshkosh,Industrials,Construction and Farm Machinery,"Oshkosh,  WI",6830,285,14000
+415,Rockwell Collins,Aerospace &  Defense,Aerospace and Defense,"Cedar Rapids,  IA",6822,705,29000
+416,Kindred Healthcare,Health Care,Health Care: Medical Facilities,"Louisville,  KY",6768,-699,64200
+417,Insight Enterprises,Technology,Information Technology Services,"Tempe,  AZ",6704,90,6697
+418,Dr Pepper Snapple Group,"Food, Beverages &  Tobacco",Beverages,"Plano,  TX",6690,1076,21000
+419,American Tower,Financials,Real estate,"Boston,  MA",6664,1238,4752
+420,Fortive,Industrials,Industrial Machinery,"Everett,  WA",6656,1044,26000
+421,Ralph Lauren,Apparel,Apparel,"New York,  NY",6653,-100,18250
+422,HRG Group,Household Products,Household and Personal Products,"New York,  NY",6650,106,17113
+423,Ascena Retail Group,Retailing,Specialty Retailers: Apparel,"Mahwah,  NJ",6650,-1068,40000
+424,United Rentals,Business Services,Miscellaneous,"Stamford,  CT",6641,1346,14800
+425,Caseys General Stores,Retailing,Specialty Retailers: Other,"Ankeny,  IA",6641,177,25463
+426,Graybar Electric,Wholesalers,Wholesalers: Diversified,"St. Louis,  MO",6631,71,8500
+427,Avery Dennison,Materials,"Packaging, Containers","Glendale,  CA",6614,281,30000
+428,MasTec,Engineering &  Construction,"Engineering, Construction","Coral Gables,  FL",6607,347,17300
+429,CMS Energy,Energy,Utilities: Gas and Electric,"Jackson,  MI",6583,460,7887
+430,HD Supply Holdings,Wholesalers,Wholesalers: Diversified,"Atlanta,  GA",6534,970,11000
+431,Raymond James Financial,Financials,Securities,"St. Petersburg,  FL",6525,636,12700
+432,NCR,Technology,"Computers, Office Equipment","Atlanta,  GA",6516,232,34000
+433,Hanesbrands,Apparel,Apparel,"Winston-Salem,  NC",6478,61,67200
+434,Asbury Automotive Group,Retailing,"Automotive Retailing, Services","Duluth,  GA",6457,139,8000
+435,Citizens Financial Group,Financials,Commercial Banks,"Providence,  RI",6454,1652,17594
+436,Packaging Corp. of America,Materials,"Packaging, Containers","Lake Forest,  IL",6445,668,14600
+437,Alleghany,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",6425,90,4402
+438,Apache,Energy,"Mining, Crude-Oil Production","Houston,  TX",6423,1304,3356
+439,Dillards,Retailing,General Merchandisers,"Little Rock,  AR",6423,221,31400
+440,Assurant,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",6415,519,14175
+441,Franklin Resources,Financials,Securities,"San Mateo,  CA",6392,1696,9386
+442,Owens Corning,Materials,"Building Materials, Glass","Toledo,  OH",6384,289,17000
+443,Motorola Solutions,Technology,Network and Other Communications Equipment,"Chicago,  IL",6380,-155,15000
+444,NVR,Engineering &  Construction,Homebuilders,"Reston,  VA",6322,537,5200
+445,Rockwell Automation,Industrials,"Electronics, Electrical Equip.","Milwaukee,  WI",6311,825,22000
+446,TreeHouse Foods,"Food, Beverages &  Tobacco",Food Consumer Products,"Oak Brook,  IL",6307,-287,13489
+447,Wynn Resorts,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",6306,747,25200
+448,Olin,Chemicals,Chemicals,"Clayton,  MO",6268,549,6400
+449,American Axle & Manufacturing,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Detroit,  MI",6266,337,25000
+450,Old Republic International,Financials,Insurance: Property and Casualty (Stock),"Chicago,  IL",6263,560,8700
+451,Chemours,Chemicals,Chemicals,"Wilmington,  DE",6183,746,7000
+452,iHeartMedia,Media,Entertainment,"San Antonio,  TX",6178,-705,18700
+453,Ameren,Energy,Utilities: Gas and Electric,"St. Louis,  MO",6177,523,8615
+454,Arthur J. Gallagher,Financials,Diversified Financials,"Rolling Meadows,  IL",6160,463,26783
+455,Celanese,Chemicals,Chemicals,"Irving,  TX",6140,843,7592
+456,Sealed Air,Materials,"Packaging, Containers","Charlotte,  NC",6131,814,15000
+457,UGI,Energy,Energy,"King of Prussia,  PA",6121,436,13000
+458,Realogy Holdings,Financials,Real estate,"Madison,  NJ",6114,431,11800
+459,Burlington Stores,Retailing,Specialty Retailers: Apparel,"Burlington,  NJ",6110,384,40000
+460,Regions Financial,Financials,Commercial Banks,"Birmingham,  AL",6093,1263,21714
+461,AK Steel Holding,Materials,Metals,"Beckett Ridge,  OH",6081,6,9200
+462,Securian Financial Group,Financials,"Insurance: Life, Health (stock)","St Paul,  MN",6067,418,5000
+463,S& P Global,Business Services,Financial Data Services,"New York,  NY",6063,1496,20400
+464,Markel,Financials,Insurance: Property and Casualty (Stock),"Glen Allen,  VA",6062,395,15600
+465,TravelCenters of America,Retailing,Specialty Retailers: Other,"Westlake,  OH",6052,9,19611
+466,Conduent,Business Services,Diversified Outsourcing Services,"Florham Park,  NJ",6022,181,90000
+467,M& T Bank Corp.,Financials,Commercial Banks,"Buffalo,  NY",6019,1408,16354
+468,Clorox,Household Products,Household and Personal Products,"Oakland,  CA",5973,701,8100
+469,AmTrust Financial Services,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",5959,-349,9300
+470,KKR,Financials,Securities,"New York,  NY",5930,1018,1184
+471,Ulta Beauty,Retailing,Specialty Retailers: Other,"Bolingbrook,  IL",5885,555,24200
+472,Yum Brands,"Hotels, Restaurants &  Leisure",Food Services,"Louisville,  KY",5878,1340,60000
+473,Regeneron Pharmaceuticals,Health Care,Pharmaceuticals,"Tarrytown,  NY",5872,1198,6200
+474,Windstream Holdings,Telecommunications,Telecommunications,"Little Rock,  AR",5853,-2117,12979
+475,Magellan Health,Health Care,Health Care: Insurance and Managed Care,"Scottsdale,  AZ",5838,110,10700
+476,Western & Southern Financial,Financials,"Insurance: Life, Health (Mutual)","Cincinnati,  OH",5836,310,2226
+477,Intercontinental Exchange,Financials,Securities,"Atlanta,  GA",5834,2514,4952
+478,Ingredion,"Food, Beverages &  Tobacco",Food Production,"Westchester,  IL",5832,519,11000
+479,Wyndham Destinations,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Parsippany-Troy Hills,  NJ",5821,871,39200
+480,Toll Brothers,Engineering &  Construction,Homebuilders,"Horsham,  PA",5815,535,4500
+481,Seaboard,"Food, Beverages &  Tobacco",Food Production,"Merriam,  KS",5809,247,11800
+482,Booz Allen Hamilton,Technology,Information Technology Services,"McLean,  VA",5804,252,23300
+483,First American Financial,Financials,Insurance: Property and Casualty (Stock),"Santa Ana,  CA",5772,423,18705
+484,Cincinnati Financial,Financials,Insurance: Property and Casualty (Stock),"Fairfield,  OH",5732,1045,4925
+485,Avon Products,Household Products,Household and Personal Products,"Rye,  NY",5716,22,25000
+486,Northern Trust,Financials,Commercial Banks,"Chicago,  IL",5716,1199,18100
+487,Fiserv,Business Services,Financial Data Services,"Brookfield,  WI",5696,1246,24000
+488,Harley-Davidson,Transportation,Transportation Equipment,"Milwaukee,  WI",5647,521,5800
+489,Cheniere Energy,Energy,Energy,"Houston,  TX",5601,-393,1230
+490,Patterson,Wholesalers,Wholesalers: Health Care,"St Paul,  MN",5593,170,7500
+491,Peabody Energy,Energy,"Mining, Crude-Oil Production","St. Louis,  MO",5579,435,7100
+492,ON Semiconductor,Technology,Semiconductors and Other Electronic Components,"Phoenix,  AZ",5543,810,34000
+493,Simon Property Group,Financials,Real estate,"Indianapolis,  IN",5539,1948,4150
+494,Western Union,Business Services,Financial Data Services,"Englewood,  CO",5524,-558,11500
+495,NetApp,Technology,"Computers, Office Equipment","Sunnyvale,  CA",5519,509,10100
+496,Polaris Industries,Transportation,Transportation Equipment,"Medina,  MN",5505,172,11000
+497,Pioneer Natural Resources,Energy,"Mining, Crude-Oil Production","Irving,  TX",5455,833,3836
+498,ABM Industries,Business Services,Diversified Outsourcing Services,"New York,  NY",5454,3,140000
+499,Vistra Energy,Energy,Energy,"Irving,  TX",5430,-254,4150
+500,Cintas,Business Services,Diversified Outsourcing Services,"Cincinnati,  OH",5429,480,42000
+501,Hess,Energy,"Mining, Crude-Oil Production","New York,  NY",5405,-4074,2075
+502,Host Hotels & Resorts,Financials,Real estate,"Bethesda,  MD",5387,564,205
+503,Kelly Services,Business Services,Temporary Help,"Troy,  MI",5374,71,7800
+504,Genesis Healthcare,Health Care,Health Care: Medical Facilities,"Kennett Square,  PA",5374,-579,68700
+505,Michaels Cos.,Retailing,Specialty Retailers: Other,"Irving,  TX",5362,390,30500
+506,Advanced Micro Devices,Technology,Semiconductors and Other Electronic Components,"Santa Clara,  CA",5329,43,8900
+507,Zoetis,Health Care,Pharmaceuticals,"Parsippany-Troy Hills,  NJ",5307,864,9200
+508,Williams-Sonoma,Retailing,Specialty Retailers: Other,"SF,  CA",5292,259,19350
+509,Fortune Brands Home & Security,Household Products,"Home Equipment, Furnishings","Deerfield,  IL",5283,472,23870
+510,Big Lots,Retailing,Specialty Retailers: Other,"Columbus,  OH",5271,189,22900
+511,Robert Half International,Business Services,Temporary Help,"Menlo Park,  CA",5267,290,17200
+512,Post Holdings,"Food, Beverages &  Tobacco",Food Consumer Products,"St. Louis,  MO",5226,48,11410
+513,Hasbro,Household Products,"Toys, Sporting Goods","Pawtucket,  RI",5210,396,5400
+514,Hanover Insurance Group,Financials,Insurance: Property and Casualty (Stock),"Worcester,  MA",5184,186,4600
+515,Navient,Financials,Diversified Financials,"Wilmington,  DE",5179,292,6700
+516,Intuit,Technology,Computer Software,"Mountain View,  CA",5177,971,8200
+517,Domtar,Materials,Forest and Paper Products,"Fort Mill,  SC",5157,-258,10000
+518,Marathon Oil,Energy,"Mining, Crude-Oil Production","Houston,  TX",5153,-5723,2300
+519,Cerner,Health Care,Health Care: Pharmacy and Other Services,"North Kansas City,  MO",5142,867,26000
+520,Analog Devices,Technology,Semiconductors and Other Electronic Components,"Norwood,  MA",5108,727,15300
+521,Telephone & Data Systems,Telecommunications,Telecommunications,"Chicago,  IL",5044,153,9900
+522,Essendant,Wholesalers,Wholesalers: Electronics and Office Equipment,"Deerfield,  IL",5037,-267,6400
+523,Sonoco Products,Materials,"Packaging, Containers","Hartsville,  SC",5037,175,21000
+524,Juniper Networks,Technology,Network and Other Communications Equipment,"Sunnyvale,  CA",5027,306,9381
+525,Commercial Metals,Materials,Metals,"Irving,  TX",4999,46,8797
+526,CSRA,Technology,Information Technology Services,"Falls Church,  VA",4993,304,18500
+527,Under Armour,Apparel,Apparel,"Baltimore,  MD",4977,-49,11350
+528,RPM International,Chemicals,Chemicals,"Medina,  OH",4958,181,14318
+529,Total System Services,Business Services,Financial Data Services,"Columbus,  GA",4928,586,11800
+530,Levi Strauss,Apparel,Apparel,"SF,  CA",4904,281,13800
+531,Brunswick,Transportation,Transportation Equipment,"Libertyville,  IL",4898,146,15116
+532,YRC Worldwide,Transportation,"Trucking, Truck Leasing","Overland Park,  KS",4891,-11,32000
+533,Mattel,Household Products,"Toys, Sporting Goods","El Segundo,  CA",4882,-1054,28000
+534,FM Global,Financials,Insurance: Property and Casualty (Stock),"Johnston,  RI",4875,254,5441
+535,NiSource,Energy,Utilities: Gas and Electric,"Merrillville,  IN",4875,128,8175
+536,Caesars Entertainment,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",4852,-375,65000
+537,Electronic Arts,Technology,Entertainment,"Redwood City,  CA",4845,967,8800
+538,Dynegy,Energy,Energy,"Houston,  TX",4842,76,2489
+539,McCormick,"Food, Beverages &  Tobacco",Food Consumer Products,"Sparks Glencoe,  MD",4834,477,11700
+540,T. Rowe Price,Financials,Securities,"Baltimore,  MD",4793,1497,6881
+541,Orbital ATK,Aerospace &  Defense,Aerospace and Defense,"Sterling,  VA",4764,310,13900
+542,Tutor Perini,Engineering &  Construction,"Engineering, Construction","Los Angeles,  CA",4757,148,10061
+543,Brookdale Senior Living,Health Care,Health Care: Medical Facilities,"Brentwood,  TN",4747,-572,62550
+544,Huntington Bancshares,Financials,Commercial Banks,"Columbus,  OH",4740,1186,15770
+545,Wayfair,Technology,Internet Services and Retailing,"Boston,  MA",4721,-245,7751
+546,Rush Enterprises,Retailing,"Automotive Retailing, Services","New Braunfels,  TX",4714,172,6825
+547,Xylem,Industrials,Industrial Machinery,"Rye Brook,  NY",4707,331,16200
+548,Neiman Marcus Group,Retailing,Specialty Retailers: Apparel,"Dallas,  TX",4706,-532,13700
+549,Hyatt Hotels,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Chicago,  IL",4685,249,45000
+550,Sprouts Farmers Market,Food &  Drug Stores,Food and Drug Stores,"Phoenix,  AZ",4665,158,27000
+551,Diebold Nixdorf,Technology,"Computers, Office Equipment","North Canton,  OH",4609,-234,23000
+552,Roper Technologies,Technology,"Scientific,Photographic and  Control Equipment","Sarasota,  FL",4608,971,14236
+553,Smart & Final Stores,Food &  Drug Stores,Food and Drug Stores,"Commerce,  CA",4571,-139,7570
+554,CommScope Holding,Technology,Network and Other Communications Equipment,"Newton,  NC",4561,193,20000
+555,Tapestry,Apparel,Apparel,"New York City,  NY",4488,591,12450
+556,Diplomat Pharmacy,Health Care,Health Care: Pharmacy and Other Services,"Flint,  MI",4485,15,2298
+557,Chipotle Mexican Grill,"Hotels, Restaurants &  Leisure",Food Services,"Denver,  CO",4476,176,68890
+558,Agilent Technologies,Technology,"Scientific,Photographic and  Control Equipment","Santa Clara,  CA",4472,684,13500
+559,Science Applications International,Technology,Information Technology Services,"Reston,  VA",4454,179,15391
+560,MDU Resources Group,Energy,Energy,"Bismarck,  ND",4444,281,10140
+561,Select Medical Holdings,Health Care,Health Care: Medical Facilities,"Mechanicsburg,  PA",4444,177,36050
+562,Boise Cascade,Wholesalers,Wholesalers: Diversified,"Boise,  ID",4432,83,6370
+563,National General Holdings,Financials,Insurance: Property and Casualty (Stock),"New York,  NY",4431,105,7570
+564,SCANA,Energy,Utilities: Gas and Electric,"Cayce,  SC",4407,-119,5228
+565,Graphic Packaging Holding,Materials,"Packaging, Containers","Atlanta,  GA",4404,300,13000
+566,Fastenal,Wholesalers,Wholesalers: Diversified,"Winona,  MN",4391,578,20565
+567,Schneider National,Transportation,"Trucking, Truck Leasing","Green Bay,  WI",4384,389,19600
+568,Laureate Education,Business Services,Education,"Baltimore,  MD",4378,91,54500
+569,Beacon Roofing Supply,Wholesalers,Wholesalers: Diversified,"Herndon,  VA",4377,100,5406
+570,KB Home,Engineering &  Construction,Homebuilders,"Los Angeles,  CA",4369,180,1915
+571,Equinix,Financials,Real estate,"Redwood City,  CA",4368,233,7273
+572,Terex,Industrials,Construction and Farm Machinery,"Westport,  CT",4363,128,10700
+573,Crown Castle International,Financials,Real estate,"Houston,  TX",4356,444,4500
+574,CACI International,Technology,Information Technology Services,"Arlington,  VA",4355,163,18600
+575,Watsco,Wholesalers,Wholesalers: Diversified,"Miami,  FL",4342,208,5200
+576,Coca-Cola Bottling,"Food, Beverages &  Tobacco",Beverages,"Charlotte,  NC",4324,96,15500
+577,Welltower,Financials,Real estate,"Toledo,  OH",4317,522,392
+578,ADT,Business Services,Diversified Outsourcing Services,"Boca Raton,  FL",4316,342,18000
+579,Ametek,Technology,"Scientific,Photographic and  Control Equipment","Berwyn,  PA",4300,681,16900
+580,CNO Financial Group,Financials,"Insurance: Life, Health (stock)","Carmel,  IN",4297,175,3300
+581,Camping World Holdings,Retailing,"Automotive Retailing, Services","Lincolnshire,  IL",4285,28,10227
+582,LPL Financial Holdings,Financials,Securities,"Boston,  MA",4282,238,3736
+583,Noble Energy,Energy,"Mining, Crude-Oil Production","Houston,  TX",4256,-1118,2277
+584,Bloomin Brands,"Hotels, Restaurants &  Leisure",Food Services,"Tampa,  FL",4213,100,94000
+585,Moodys,Business Services,Financial Data Services,"New York,  NY",4204,1000,11896
+586,Symantec,Technology,Computer Software,"Mountain View,  CA",4191,-106,13000
+587,Amkor Technology,Technology,Semiconductors and Other Electronic Components,"Tempe,  AZ",4187,260,29300
+588,Skechers U.S.A.,Apparel,Apparel,"Manhattan Beach,  CA",4181,179,8150
+589,KBR,Engineering &  Construction,"Engineering, Construction","Houston,  TX",4171,434,20000
+590,Tiffany,Retailing,Specialty Retailers: Other,"New York,  NY",4170,370,13100
+591,Torchmark,Financials,"Insurance: Life, Health (stock)","McKinney,  TX",4156,1454,3102
+592,Broadridge Financial Solutions,Business Services,Financial Data Services,"Lake Success,  NY",4143,326,10000
+593,Quad/Graphics,Media,"Publishing, Printing","Sussex,  WI",4131,107,21100
+594,CF Industries Holdings,Chemicals,Chemicals,"Deerfield,  IL",4130,357,2950
+595,Carlisle,Materials,"Building Materials, Glass","Scottsdale,  AZ",4090,365,14800
+596,Silgan Holdings,Materials,"Packaging, Containers","Stamford,  CT",4090,269,12515
+597,Bemis,Materials,"Packaging, Containers","Neenah,  WI",4046,94,16582
+598,CA,Technology,Computer Software,"New York,  NY",4036,775,11800
+599,Hub Group,Transportation,Transportation and Logistics,"Oak Brook,  IL",4035,135,4377
+600,Worldpay,Business Services,Financial Data Services,"Cincinnati,  OH",4027,130,3560
+601,Ingles Markets,Food &  Drug Stores,Food and Drug Stores,"Black Mountain,  NC",4003,53,17250
+602,Snap-on,Industrials,Industrial Machinery,"Kenosha,  WI",4000,557,12600
+603,Dentsply Sirona,Health Care,Medical Products and Equipment,"York,  PA",3993,-1550,16100
+604,Calumet Specialty Products,Energy,Petroleum Refining,"Indianapolis,  IN",3992,-104,1600
+605,Global Payments,Business Services,Financial Data Services,"Atlanta,  GA",3975,468,10000
+606,Encompass Health,Health Care,Health Care: Medical Facilities,"Birmingham,  AL",3971,256,30935
+607,Martin Marietta Materials,Materials,"Building Materials, Glass","Raleigh,  NC",3966,713,8406
+608,Nasdaq,Financials,Securities,"New York,  NY",3965,734,4734
+609,Leggett & Platt,Household Products,"Home Equipment, Furnishings","Carthage,  MO",3944,292,22200
+610,Universal Forest Products,Materials,"Building Materials, Glass","Grand Rapids,  MI",3941,119,10000
+611,Sally Beauty Holdings,Retailing,Specialty Retailers: Other,"Denton,  TX",3938,215,21755
+612,Flowers Foods,"Food, Beverages &  Tobacco",Food Consumer Products,"Thomasville,  GA",3921,150,9800
+613,Barnes & Noble,Retailing,Specialty Retailers: Other,"New York,  NY",3895,22,18592
+614,American Equity Investment Life,Financials,"Insurance: Life, Health (stock)","West Des Moines,  IA",3892,174,515
+615,Vulcan Materials,Materials,"Building Materials, Glass","Birmingham,  AL",3890,601,8287
+616,Taylor Morrison Home,Engineering &  Construction,Homebuilders,"Scottsdale,  AZ",3885,91,1800
+617,Westinghouse Air Brake,Industrials,Industrial Machinery,"Wilmerding,  PA",3882,262,18000
+618,Crestwood Equity Partners,Energy,Energy,"Houston,  TX",3881,-192,954
+619,Iron Mountain,Business Services,Diversified Outsourcing Services,"Boston,  MA",3846,183,24000
+620,Lennox International,Industrials,Industrial Machinery,"Richardson,  TX",3840,305,11450
+621,General Cable,Industrials,"Electronics, Electrical Equip.","Highland Heights,  KY",3837,-57,8500
+622,American Eagle Outfitters,Retailing,Specialty Retailers: Apparel,"Pittsburgh,  PA",3796,204,24100
+623,Church & Dwight,Household Products,Household and Personal Products,"Ewing Township,  NJ",3776,743,4700
+624,Platform Specialty Products,Chemicals,Chemicals,"West Palm Beach,  FL",3776,-297,7850
+625,JELD-WEN Holding,Materials,"Building Materials, Glass","Charlotte,  NC",3764,10,21000
+626,OneMain Holdings,Financials,Diversified Financials,"Evansville,  IN",3756,183,10100
+627,Colfax,Industrials,Industrial Machinery,"Annapolis Junction,  MD",3737,151,14300
+628,Zebra Technologies,Industrials,"Electronics, Electrical Equip.","Lincolnshire,  IL",3722,17,7000
+629,Andersons,"Food, Beverages &  Tobacco",Food Production,"Maumee,  OH",3686,42,1819
+630,TD Ameritrade Holding,Financials,Securities,"Omaha,  NE",3685,872,10412
+631,Carlyle Group,Financials,Securities,"Leavenworth,  WA",3676,244,1600
+632,Hubbell,Industrials,"Electronics, Electrical Equip.","Shelton,  CT",3669,243,17700
+633,Trinity Industries,Transportation,Transportation Equipment,"Dallas,  TX",3663,702,15605
+634,Darling Ingredients,"Food, Beverages &  Tobacco",Food Production,"Irving,  TX",3662,128,9800
+635,Flowserve,Industrials,Industrial Machinery,"Irving,  TX",3661,2,17000
+636,Antero Resources,Energy,"Mining, Crude-Oil Production","Denver,  CO",3656,615,593
+637,Skyworks Solutions,Technology,Semiconductors and Other Electronic Components,"Woburn,  MA",3651,1010,8400
+638,Landstar System,Transportation,"Trucking, Truck Leasing","Jacksonville,  FL",3649,177,1273
+639,Buckeye Partners,Energy,Pipelines,"Houston,  TX",3648,478,1870
+640,MRC Global,Energy,"Oil and Gas Equipment, Services","Houston,  TX",3646,50,3580
+641,CME Group,Financials,Securities,"Chicago,  IL",3645,4063,2830
+642,Greif,Materials,"Packaging, Containers","Delaware,  OH",3638,118,13000
+643,Nexeo Solutions,Wholesalers,Wholesalers: Diversified,"The Woodlands,  TX",3637,14,2640
+644,Cooper-Standard Holdings,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Novi,  MI",3618,135,32000
+645,Urban Outfitters,Retailing,Specialty Retailers: Apparel,"Philadelphia,  PA",3616,108,16330
+646,LSC Communications,Media,"Publishing, Printing","Chicago,  IL",3603,-57,24000
+647,Sabre,Technology,Internet Services and Retailing,"Southlake,  TX",3599,242,9000
+648,Green Plains,Energy,Energy,"Omaha,  NE",3596,61,1427
+649,Hexion,Chemicals,Chemicals,"Columbus,  OH",3591,-234,4300
+650,Stericycle,Business Services,Waste Management,"Lake Forest,  IL",3581,42,23200
+651,Warner Music Group,Media,Entertainment,"New York,  NY",3576,143,4520
+652,Ventas,Financials,Real estate,"Chicago,  IL",3574,1356,493
+653,ScanSource,Wholesalers,Wholesalers: Electronics and Office Equipment,"Greenville,  SC",3568,69,2000
+654,Pinnacle West Capital,Energy,Utilities: Gas and Electric,"Phoenix,  AZ",3565,488,6292
+655,Scripps Networks Interactive,Media,Entertainment,"Knoxville,  TN",3562,623,3600
+656,Alexion Pharmaceuticals,Health Care,Pharmaceuticals,"New Haven,  CT",3551,443,2525
+657,Pitney Bowes,Technology,"Computers, Office Equipment","Stamford,  CT",3550,261,14700
+658,CIT Group,Financials,Commercial Banks,"New York,  NY",3545,468,4167
+659,Country Financial,Financials,Insurance: Property and Casualty (Mutual),"Bloomington,  IL",3542,187,3834
+660,CUNA Mutual Group,Financials,"Insurance: Life, Health (stock)","Madison,  WI",3541,303,3300
+661,Triumph Group,Aerospace &  Defense,Aerospace and Defense,"Berwyn,  PA",3533,-43,14309
+662,TransDigm Group,Aerospace &  Defense,Aerospace and Defense,"Cleveland,  OH",3529,596,9200
+663,Allegheny Technologies,Materials,Metals,"Pittsburgh,  PA",3525,-92,8600
+664,Resolute Forest Products,Materials,Forest and Paper Products,"Catawba,  SC",3513,-84,7700
+665,Acuity Brands,Industrials,"Electronics, Electrical Equip.","Atlanta,  GA",3505,321,12500
+666,Abercrombie & Fitch,Retailing,Specialty Retailers: Apparel,"New Albany,  OH",3493,7,22500
+667,KLA-Tencor,Technology,Semiconductors and Other Electronic Components,"Milpitas,  CA",3480,926,5990
+668,Weis Markets,Food &  Drug Stores,Food and Drug Stores,"Sunbury,  PA",3467,98,23000
+669,Puget Energy,Energy,Utilities: Gas and Electric,"Bellevue,  WA",3460,175,3140
+670,Mednax,Health Care,Health Care: Pharmacy and Other Services,"Fort Lauderdale,  FL",3458,320,14000
+671,Kar Auction Services,Wholesalers,Wholesalers: Diversified,"Carmel,  IN",3458,362,15488
+672,PolyOne,Chemicals,Chemicals,"Avon Lake,  OH",3452,-58,6400
+673,FMC,Chemicals,Chemicals,"Philadelphia,  PA",3442,535,7000
+674,Edwards Lifesciences,Health Care,Medical Products and Equipment,"Irvine,  CA",3435,583,12200
+675,Microchip Technology,Technology,Semiconductors and Other Electronic Components,"Chandler,  AZ",3426,164,12656
+676,Amerco,Transportation,"Trucking, Truck Leasing","Reno,  NV",3422,398,20376
+677,Mercury General,Financials,Insurance: Property and Casualty (Stock),"Los Angeles,  CA",3416,144,4300
+678,American National Insurance,Financials,"Insurance: Life, Health (stock)","Galveston,  TX",3411,493,4621
+679,Carters,Apparel,Apparel,"Atlanta,  GA",3400,302,20900
+680,International Flavors & Fragrances,Chemicals,Chemicals,"New York,  NY",3399,295,7300
+681,Aarons,Retailing,Specialty Retailers: Other,"Atlanta,  GA",3384,292,11900
+682,Alliant Energy,Energy,Utilities: Gas and Electric,"Madison,  WI",3382,457,3989
+683,EQT,Energy,Energy,"Pittsburgh,  PA",3378,1508,2067
+684,Monster Beverage,"Food, Beverages &  Tobacco",Beverages,"Corona,  CA",3369,820,2589
+685,BMC Stock Holdings,Wholesalers,Wholesalers: Diversified,"Atlanta,  GA",3366,57,9100
+686,Ryerson Holding,Materials,Metals,"Chicago,  IL",3365,17,3600
+687,Equifax,Business Services,Financial Data Services,"Atlanta,  GA",3362,587,10300
+688,Regal Beloit,Industrials,"Electronics, Electrical Equip.","Beloit,  WI",3360,213,23600
+689,Old Dominion Freight Line,Transportation,"Trucking, Truck Leasing","Thomasville,  NC",3358,463,19183
+690,American Water Works,Energy,Miscellaneous,"Voorhees Township,  NJ",3357,426,6900
+691,BGC Partners,Financials,Securities,"New York,  NY",3353,51,9238
+692,Brinks,Business Services,Diversified Outsourcing Services,"Richmond,  VA",3347,16,62150
+692,Meritor,Business Services,Diversified Outsourcing Services,"Richmond,  VA",3347,16,62150
+694,Sentry Insurance Group,Financials,Insurance: Property and Casualty (Mutual),"Stevens Point,  WI",3346,288,4139
+695,Sanderson Farms,"Food, Beverages &  Tobacco",Food Production,"Laurel,  MS",3342,279,14669
+696,KapStone Paper & Packaging,Materials,"Packaging, Containers","Northbrook,  IL",3316,243,6400
+697,Gartner,Technology,Information Technology Services,"Stamford,  CT",3312,3,15131
+698,IAC/InterActiveCorp,Technology,Internet Services and Retailing,"New York City,  NY",3307,304,7000
+699,Tailored Brands,Retailing,Specialty Retailers: Apparel,"Houston,  TX",3304,96,18200
+700,WABCO Holdings,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Rochester Hills,  MI",3304,406,14631
+701,Insperity,Business Services,Diversified Outsourcing Services,"Houston,  TX",3300,84,2900
+702,Comerica,Financials,Commercial Banks,"Dallas,  TX",3289,743,7999
+703,TriNet Group,Business Services,Diversified Outsourcing Services,"San Leandro,  CA",3275,178,2700
+704,Avaya Holdings,Technology,Information Technology Services,"Santa Clara,  CA",3272,160,8700
+705,Ashland Global Holdings,Chemicals,Chemicals,"Covington,  KY",3260,1,6500
+706,Meritage Homes,Engineering &  Construction,Homebuilders,"Scottsdale,  AZ",3241,143,1605
+707,SkyWest,Transportation,Airlines,"St. George,  UT",3204,428,16300
+708,USG,Materials,"Building Materials, Glass","Chicago,  IL",3204,88,6800
+709,Southwestern Energy,Energy,"Mining, Crude-Oil Production","Spring,  TX",3203,1046,1575
+710,Keysight Technologies,Technology,"Scientific,Photographic and  Control Equipment","Santa Rosa,  CA",3189,102,12600
+711,Regal Entertainment Group,Media,Entertainment,"Knoxville,  TN",3163,112,26047
+712,Mutual of America Life Insurance,Financials,"Insurance: Life, Health (Mutual)","New York,  NY",3163,26,1079
+713,Paychex,Business Services,Diversified Outsourcing Services,"Rochester,  NY",3151,817,13700
+714,Brinker International,"Hotels, Restaurants &  Leisure",Food Services,"Dallas,  TX",3151,150,57906
+715,Penn National Gaming,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Wyomissing,  PA",3148,473,18754
+716,Gannett,Media,"Publishing, Printing","McLean,  VA",3147,6,19000
+717,Visteon,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Van Buren Charter Township,  MI",3146,176,10000
+718,Pinnacle Foods,"Food, Beverages &  Tobacco",Food Consumer Products,"Parsippany-Troy Hills,  NJ",3144,532,4900
+719,Intuitive Surgical,Health Care,Medical Products and Equipment,"Sunnyvale,  CA",3129,660,4444
+720,Continental Resources,Energy,"Mining, Crude-Oil Production","Oklahoma City,  OK",3121,789,1127
+721,Service Corp. International,Business Services,Miscellaneous,"Houston,  TX",3095,546,19468
+722,Scientific Games,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",3084,-243,8600
+723,Albemarle,Chemicals,Chemicals,"Charlotte,  NC",3072,54,5400
+724,Atmos Energy,Energy,Utilities: Gas and Electric,"Dallas,  TX",3063,396,4565
+725,Hologic,Health Care,Medical Products and Equipment,"Marlboro,  MA",3059,755,6233
+726,H& R Block,Financials,Diversified Financials,"KCMO,  MO",3036,408,44900
+727,Qorvo,Technology,Semiconductors and Other Electronic Components,"Greensboro,  NC",3033,-17,8600
+728,Steelcase,Household Products,"Home Equipment, Furnishings","Grand Rapids,  MI",3032,124,12650
+729,Univision Communications,Media,Entertainment,"New York,  NY",3016,654,4500
+730,Worthington Industries,Materials,Metals,"Columbus,  OH",3014,204,10000
+731,Timken,Industrials,Industrial Machinery,"North Canton,  OH",3004,203,15006
+732,A.O. Smith,Industrials,"Electronics, Electrical Equip.","Milwaukee,  WI",2997,296,16100
+733,PriceSmart,Retailing,General Merchandisers,"San Diego,  CA",2997,90,7903
+734,Stifel Financial,Financials,Securities,"St. Louis,  MO",2997,182,7100
+735,Brown-Forman,"Food, Beverages &  Tobacco",Beverages,"Louisville,  KY",2994,669,4570
+736,Cinemark Holdings,Media,Entertainment,"Plano,  TX",2992,264,19915
+737,Granite Construction,Engineering &  Construction,"Engineering, Construction","Watsonville,  CA",2990,69,3600
+738,Dycom Industries,Engineering &  Construction,"Engineering, Construction","Palm Beach Gardens,  FL",2978,151,14365
+739,Clean Harbors,Business Services,Waste Management,"Norwell,  MA",2945,100,12700
+740,First Solar,Energy,Energy,"Tempe,  AZ",2941,-166,4100
+741,Scotts Miracle-Gro,Chemicals,Chemicals,"Marysville,  OH",2936,218,4700
+742,Cracker Barrel Old Country Store,"Hotels, Restaurants &  Leisure",Food Services,"Lebanon,  TN",2926,201,73000
+743,Triple-S Management,Health Care,Health Care: Insurance and Managed Care,"San Juan,  Puerto Rico",2916,54,3517
+744,First Republic Bank,Financials,Commercial Banks,"SF,  CA",2912,757,4025
+745,ServiceMaster Global Holdings,Business Services,Diversified Outsourcing Services,"Memphis,  TN",2912,510,13000
+746,PC Connection,Retailing,Specialty Retailers: Other,"Merrimack,  NH",2912,54,2505
+747,Genesco,Retailing,Specialty Retailers: Apparel,"Nashville,  TN",2907,-112,19350
+748,Medical Mutual of Ohio,Financials,"Insurance: Life, Health (Mutual)","Cleveland,  OH",2895,8,2244
+749,MSC Industrial Direct,Wholesalers,Wholesalers: Diversified,"Melville,  NY",2888,231,6563
+750,Legg Mason,Financials,Securities,"Baltimore,  MD",2887,227,3338
+751,Hyster-Yale Materials Handling,Industrials,Industrial Machinery,"Cleveland,  OH",2885,48,6800
+752,Apollo Global Management,Financials,Securities,"New York,  NY",2884,629,1047
+753,Citrix Systems,Technology,Computer Software,"Fort Lauderdale,  FL",2883,-21,7500
+754,Acadia Healthcare,Health Care,Health Care: Medical Facilities,"Franklin,  TN",2877,199,34050
+755,Varian Medical Systems,Health Care,Medical Products and Equipment,"Palo Alto,  CA",2862,249,6600
+756,Groupon,Technology,Internet Services and Retailing,"Chicago,  IL",2859,14,6672
+757,Aleris,Materials,Metals,"Cleveland,  OH",2858,-211,5400
+758,Sprague Resources,Wholesalers,Wholesalers: Diversified,"Portsmouth,  NH",2855,29,981
+759,Cooper Tire & Rubber,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Findlay,  OH",2855,95,9204
+760,Hain Celestial Group,"Food, Beverages &  Tobacco",Food Consumer Products,"Lake Success,  NY",2853,67,7825
+761,Penn Mutual Life Insurance,Financials,"Insurance: Life, Health (stock)","Horsham,  PA",2851,594,3089
+762,Colony NorthStar,Financials,Real estate,"Los Angeles,  CA",2842,-198,544
+763,ArcBest,Transportation,"Trucking, Truck Leasing","Fort Smith,  AR",2827,59,13000
+764,Presidio,Technology,Information Technology Services,"New York,  NY",2818,4,2700
+765,TRI Pointe Group,Engineering &  Construction,Homebuilders,"Irvine,  CA",2810,187,1251
+766,Annaly Capital Management,Financials,Diversified Financials,"New York,  NY",2809,1569,152
+767,G-III Apparel Group,Apparel,Apparel,"New York,  NY",2807,62,9961
+768,AMC Networks,Media,Entertainment,"New York,  NY",2806,471,2039
+769,Enable Midstream Partners,Energy,Pipelines,"Oklahoma City,  OK",2803,436,1630
+770,Ciena,Technology,Network and Other Communications Equipment,"Hanover,  MD",2802,1262,5737
+771,DSW,Retailing,Specialty Retailers: Apparel,"Columbus,  OH",2800,67,12000
+772,Convergys,Business Services,Diversified Outsourcing Services,"Cincinnati,  OH",2792,121,115000
+773,Park Hotels & Resorts,Financials,Real estate,"McLean,  VA",2791,2625,520
+774,Pool,Wholesalers,Wholesalers: Diversified,"Covington,  LA",2788,191,4000
+775,Fossil Group,Apparel,Apparel,"Richardson,  TX",2788,-479,12300
+776,Dominos Pizza,"Hotels, Restaurants &  Leisure",Food Services,"Ann Arbor,  MI",2788,277,14200
+777,Crane,Industrials,Industrial Machinery,"Stamford,  CT",2786,171,10600
+778,Caleres,Retailing,Specialty Retailers: Apparel,"St. Louis,  MO",2786,87,12000
+779,Tempur Sealy International,Household Products,"Home Equipment, Furnishings","Lexington,  KY",2754,151,7000
+780,Tetra Tech,Engineering &  Construction,"Engineering, Construction","Pasadena,  CA",2753,117,16000
+781,Illumina,Technology,"Scientific,Photographic and  Control Equipment","San Diego,  CA",2752,726,6200
+782,Valmont Industries,Materials,Metals,"Omaha,  NE",2746,116,10690
+783,Hill-Rom Holdings,Health Care,Medical Products and Equipment,"Chicago,  IL",2744,133,10000
+784,Unisys,Technology,Information Technology Services,"Blue Bell,  PA",2742,-66,20500
+785,Zions Bancorp.,Financials,Commercial Banks,"Salt Lake City,  UT",2736,592,10083
+786,Sinclair Broadcast Group,Media,Entertainment,"Cockeysville,  MD",2734,576,8900
+787,Louisiana-Pacific,Materials,"Building Materials, Glass","Nashville,  TN",2734,389,5000
+788,Mettler-Toledo International,Technology,"Scientific,Photographic and  Control Equipment","Columbus,  OH",2725,376,14600
+789,Synopsys,Technology,Computer Software,"Mountain View,  CA",2725,136,11686
+790,Kemper,Financials,Insurance: Property and Casualty (Stock),"Chicago,  IL",2723,120,5550
+791,Cabot,Chemicals,Chemicals,"Boston,  MA",2717,241,4500
+792,Great Plains Energy,Energy,Utilities: Gas and Electric,"KCMO,  MO",2708,-107,2709
+793,Rent-A-Center,Retailing,Specialty Retailers: Other,"Plano,  TX",2703,6,18300
+794,Hawaiian Holdings,Transportation,Airlines,"Honolulu,  HI",2696,364,6660
+795,Revlon,Household Products,Household and Personal Products,"New York,  NY",2694,-184,7800
+796,Syneos Health,Health Care,Health Care: Pharmacy and Other Services,"Raleigh,  NC",2672,-139,21000
+797,Public Storage,Financials,Real estate,"Glendale,  CA",2669,1442,5600
+798,TTM Technologies,Technology,Semiconductors and Other Electronic Components,"Costa Mesa,  CA",2659,124,29000
+799,Vectren,Energy,Utilities: Gas and Electric,"Evansville,  IN",2657,216,5500
+800,Trimble,Technology,"Scientific,Photographic and  Control Equipment","Sunnyvale,  CA",2654,121,9523
+801,NOW,Wholesalers,Wholesalers: Diversified,"Houston,  TX",2648,-52,4463
+802,Spirit Airlines,Transportation,Airlines,"Miramar,  FL",2648,420,6100
+803,ASGN,Business Services,Temporary Help,"Calabasas,  CA",2626,157,3800
+804,Lincoln Electric Holdings,Industrials,Industrial Machinery,"Cleveland,  OH",2624,247,11000
+805,Prologis,Financials,Real estate,"SF,  CA",2618,1652,1565
+806,Range Resources,Energy,"Mining, Crude-Oil Production","Fort Worth,  TX",2611,333,773
+807,Teledyne Technologies,Aerospace &  Defense,Aerospace and Defense,"Thousand Oaks,  CA",2604,227,10340
+808,Vishay Intertechnology,Technology,Semiconductors and Other Electronic Components,"Malvern,  PA",2604,-21,23000
+809,Boston Properties,Financials,Real estate,"Boston,  MA",2602,462,740
+810,Applied Industrial Technologies,Wholesalers,Wholesalers: Diversified,"Cleveland,  OH",2594,133,5554
+811,Graham Holdings,Business Services,Education,"Arlington,  VA",2592,302,16153
+812,Amica Mutual Insurance,Financials,Insurance: Property and Casualty (Mutual),"Lincoln,  RI",2590,96,3693
+813,Concho Resources,Energy,"Mining, Crude-Oil Production","Midland,  TX",2586,956,1203
+814,ITT,Industrials,Industrial Machinery,"White Plains,  NY",2585,113,10000
+815,Kansas City Southern,Transportation,Railroads,"KCMO,  MO",2583,962,7130
+816,MDC Holdings,Engineering &  Construction,Homebuilders,"Denver,  CO",2578,141,1491
+817,Evergy,Energy,Utilities: Gas and Electric,"Topeka,  KS",2571,323,2205
+818,Pinnacle Entertainment,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",2562,63,15377
+819,Hawaiian Electric Industries,Energy,Utilities: Gas and Electric,"Honolulu,  HI",2556,165,3880
+820,TEGNA,Media,Entertainment,"McLean,  VA",2550,273,5283
+821,Southwest Gas Holdings,Energy,Utilities: Gas and Electric,"Las Vegas,  NV",2549,193,7771
+822,Vista Outdoor,Household Products,Miscellaneous,"Farmington,  UT",2547,-275,6400
+823,Bon-Ton Stores,Retailing,General Merchandisers,"York,  PA",2541,-91,23300
+824,Super Micro Computer,Technology,"Computers, Office Equipment","San Jose,  CA",2530,69,2699
+825,Plexus,Technology,Semiconductors and Other Electronic Components,"Neenah,  WI",2528,112,16000
+826,TrueBlue,Business Services,Temporary Help,"Tacoma,  WA",2509,55,5500
+827,Magellan Midstream Partners,Energy,Pipelines,"Tulsa,  OK",2508,869,1802
+828,Toro,Industrials,Construction and Farm Machinery,"Bloomington,  MN",2505,267,6779
+829,Akamai Technologies,Technology,Internet Services and Retailing,"Cambridge,  MA",2503,218,7650
+830,Moog,Aerospace &  Defense,Aerospace and Defense,"Elma Center,  NY",2498,141,10675
+831,Vertex Pharmaceuticals,Health Care,Pharmaceuticals,"Boston,  MA",2489,263,2300
+832,Equity Residential,Financials,Real estate,"Chicago,  IL",2471,603,2683
+833,Selective Insurance Group,Financials,Insurance: Property and Casualty (Stock),"Branchville,  NJ",2470,168,2260
+834,AptarGroup,Materials,"Packaging, Containers","Crystal Lake,  IL",2469,220,13200
+835,Benchmark Electronics,Technology,Semiconductors and Other Electronic Components,"Scottsdale,  AZ",2467,-32,10600
+836,Columbia Sportswear,Apparel,Apparel,"Portland,  OR",2466,105,6188
+837,A. Schulman,Chemicals,Chemicals,"Fairlawn,  OH",2461,33,4900
+838,Verso,Materials,Forest and Paper Products,"Miamisburg,  OH",2461,-30,4200
+839,Digital Realty Trust,Financials,Real estate,"SF,  CA",2458,248,1429
+840,GNC Holdings,Food &  Drug Stores,Food and Drug Stores,"Pittsburgh,  PA",2453,-149,11500
+841,E*Trade Financial,Financials,Securities,"New York,  NY",2452,614,3607
+842,Hovnanian Enterprises,Engineering &  Construction,Homebuilders,"Red Bank,  NJ",2452,-333,1905
+843,Maximus,Technology,Information Technology Services,"Reston,  VA",2451,209,20400
+844,Twitter,Technology,Internet Services and Retailing,"SF,  CA",2443,-109,3372
+845,Par Pacific Holdings,Energy,Petroleum Refining,"Houston,  TX",2443,72,905
+846,Parexel International,Health Care,Health Care: Pharmacy and Other Services,"Waltham,  MA",2442,107,18900
+847,RH,Retailing,Specialty Retailers: Other,"Corte Madera,  CA",2440,2,4750
+848,Nexstar Media Group,Media,Entertainment,"Irving,  TX",2432,475,8737
+849,Knight-Swift Transportation Holdings,Transportation,"Trucking, Truck Leasing","Phoenix,  AZ",2426,484,25300
+850,Red Hat,Technology,Computer Software,"Raleigh,  NC",2412,253,10500
+851,Belden,Industrials,"Electronics, Electrical Equip.","St. Louis,  MO",2389,93,8800
+852,Boyd Gaming,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Las Vegas,  NV",2384,189,19707
+853,Primoris Services,Engineering &  Construction,"Engineering, Construction","Dallas,  TX",2380,72,7102
+854,Gardner Denver,Industrials,Industrial Machinery,"Milwaukee,  WI",2375,18,6400
+855,Donaldson,Industrials,Industrial Machinery,"Minneapolis,  MN",2372,232,13200
+856,Party City Holdco,Retailing,Specialty Retailers: Other,"Elmsford,  NY",2372,215,14600
+857,J.Crew Group,Retailing,Specialty Retailers: Apparel,"New York,  NY",2370,-125,8950
+858,EnerSys,Industrials,"Electronics, Electrical Equip.","Reading,  PA",2367,160,9400
+859,Guess,Retailing,Specialty Retailers: Apparel,"Los Angeles,  CA",2364,-8,14700
+860,Patterson-UTI Energy,Energy,"Oil and Gas Equipment, Services","Houston,  TX",2357,5,8000
+861,WGL Holdings,Energy,Energy,"Leavenworth,  WA",2355,192,1586
+862,Wolverine World Wide,Apparel,Apparel,"Rockford,  MI",2350,0,3700
+863,Xilinx,Technology,Semiconductors and Other Electronic Components,"San Jose,  CA",2349,622,3831
+864,Vornado Realty Trust,Financials,Real estate,"New York,  NY",2345,227,3989
+865,Middleby,Industrials,Industrial Machinery,"Elgin,  IL",2336,298,8493
+866,MPM Holdings,Chemicals,Chemicals,"Waterford,  NY",2331,425,5200
+867,Cleveland-Cliffs,Energy,"Mining, Crude-Oil Production","Cleveland,  OH",2330,367,2938
+868,GGP,Financials,Real estate,"Chicago,  IL",2328,657,1700
+869,Cypress Semiconductor,Technology,Semiconductors and Other Electronic Components,"San Jose,  CA",2328,-81,6099
+870,Arch Coal,Energy,"Mining, Crude-Oil Production","St. Louis,  MO",2325,238,3790
+871,GMS,Wholesalers,Wholesalers: Diversified,"Tucker,  GA",2319,48,4464
+872,Waters,Technology,"Scientific,Photographic and  Control Equipment","Milford,  MA",2309,20,7000
+873,H.B. Fuller,Chemicals,Chemicals,"St Paul,  MN",2306,58,5965
+874,Affiliated Managers Group,Financials,Securities,"West Palm Beach,  FL",2305,689,4400
+875,PerkinElmer,Technology,"Scientific,Photographic and  Control Equipment","Waltham,  MA",2301,292,11000
+876,Edgewell Personal Care,Household Products,Household and Personal Products,"Chesterfield,  MO",2298,5,6000
+877,Maxim Integrated Products,Technology,Semiconductors and Other Electronic Components,"San Jose,  CA",2296,571,7040
+878,Knights of Columbus,Financials,"Insurance: Life, Health (Mutual)","New Haven,  CT",2290,108,926
+879,IDEX,Industrials,Industrial Machinery,"Lake Forest,  IL",2287,337,7167
+880,DST Systems,Business Services,Financial Data Services,"KCMO,  MO",2284,451,14200
+881,Chicos FAS,Retailing,Specialty Retailers: Apparel,"Fort Myers,  FL",2282,101,12350
+882,Nu Skin Enterprises,Household Products,Household and Personal Products,"Provo,  UT",2279,129,48700
+883,Herman Miller,Household Products,"Home Equipment, Furnishings","Zeeland,  MI",2278,123,7478
+884,NLV Financial,Financials,"Insurance: Life, Health (stock)","Montpelier,  VT",2275,259,1065
+885,Curtiss-Wright,Aerospace &  Defense,Aerospace and Defense,"Charlotte,  NC",2271,214,8600
+886,New Jersey Resources,Energy,Energy,"Wall Township,  NJ",2269,132,1052
+887,REV Group,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Milwaukee,  WI",2268,31,7800
+888,Mueller Industries,Industrials,Industrial Machinery,"Memphis,  TN",2266,85,4125
+889,GEO Group,Business Services,Miscellaneous,"Boca Raton,  FL",2263,146,18512
+890,Allison Transmission Holdings,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Indianapolis,  IN",2262,504,2700
+891,OGE Energy,Energy,Utilities: Gas and Electric,"Oklahoma City,  OK",2261,619,2413
+892,Cheesecake Factory,"Hotels, Restaurants &  Leisure",Food Services,"Calabasas,  CA",2261,157,39100
+893,PRA Health Sciences,Technology,"Scientific,Photographic and  Control Equipment","Raleigh,  NC",2259,86,15800
+894,Tupperware Brands,Household Products,Household and Personal Products,"Orlando,  FL",2255,-266,12000
+895,Euronet Worldwide,Business Services,Financial Data Services,"Leawood,  KS",2252,156,6600
+896,FLEETCOR Technologies,Business Services,Financial Data Services,"Norcross,  GA",2250,740,7890
+897,Nationstar Mortgage Holdings,Financials,Diversified Financials,"Coppell,  TX",2247,30,7600
+898,GoDaddy,Technology,Internet Services and Retailing,"Scottsdale,  AZ",2232,136,5990
+899,Blackhawk Network Holdings,Business Services,Financial Data Services,"Pleasanton,  CA",2232,-156,3190
+900,Cboe Global Markets,Financials,Securities,"Chicago,  IL",2229,401,889
+901,Snyders-Lance,"Food, Beverages &  Tobacco",Food Consumer Products,"Charlotte,  NC",2227,148,5900
+902,Murphy Oil,Energy,"Mining, Crude-Oil Production","El Dorado,  AR",2226,-312,1128
+903,CDK Global,Technology,Computer Software,"Hoffman Estates,  IL",2220,295,8900
+904,Texas Roadhouse,"Hotels, Restaurants &  Leisure",Food Services,"Louisville,  KY",2220,131,29524
+905,Kirby,Transportation,Shipping,"Houston,  TX",2214,313,5775
+906,Square,Business Services,Financial Data Services,"SF,  CA",2214,-63,2338
+907,Genesee & Wyoming,Transportation,Railroads,"Darien,  CT",2208,549,8000
+908,Zayo Group Holdings,Telecommunications,Telecommunications,"Boulder,  CO",2200,85,3794
+909,NewMarket,Chemicals,Chemicals,"Richmond,  VA",2198,190,2223
+910,99 Cents Only Stores,Retailing,Specialty Retailers: Other,"Commerce,  CA",2194,-91,17200
+911,PCM,Wholesalers,Wholesalers: Electronics and Office Equipment,"El Segundo,  CA",2193,3,4118
+912,Federated Mutual Insurance,Financials,Insurance: Property and Casualty (Mutual),"Owatonna,  MN",2181,217,2388
+913,HNI,Household Products,"Home Equipment, Furnishings","Muscatine,  IA",2176,89,9350
+914,Hospitality Properties Trust,Financials,Real estate,"Newton,  MA",2172,215,450
+915,Greenbrier Cos.,Transportation,Transportation Equipment,"Lake Oswego,  OR",2169,116,11917
+916,Bio-Rad Laboratories,Health Care,"Scientific,Photographic and  Control Equipment","Hercules,  CA",2160,122,8150
+917,AvalonBay Communities,Financials,Real estate,"Arlington,  VA",2159,876,3123
+918,Renewable Energy Group,Energy,Energy,"Ames,  IA",2158,-80,853
+919,Atlas Air Worldwide Holdings,Transportation,Transportation and Logistics,"Harrison,  NY",2157,223,2870
+920,Teradata,Technology,Information Technology Services,"Dayton,  OH",2156,-67,10615
+921,LCI Industries,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Elkhart,  IN",2148,132,9852
+922,Teleflex,Health Care,Medical Products and Equipment,"Wayne,  PA",2146,152,14400
+923,Verisk Analytics,Business Services,Financial Data Services,"Jersey City,  NJ",2145,555,7192
+924,Popular,Financials,Commercial Banks,"Hato Rey,  Puerto Rico",2145,107,7784
+925,Workday,Technology,Computer Software,"Pleasanton,  CA",2143,-322,8200
+926,Cooper Cos.,Health Care,Medical Products and Equipment,"Pleasanton,  CA",2139,372,11800
+927,Express,Retailing,Specialty Retailers: Apparel,"Columbus,  OH",2138,19,9576
+928,Teradyne,Technology,Semiconductors and Other Electronic Components,"North Reading,  MA",2137,257,4500
+929,Werner Enterprises,Transportation,"Trucking, Truck Leasing","Omaha,  NE",2117,202,12154
+930,Oaktree Capital Group,Financials,Securities,"Los Angeles,  CA",2100,231,930
+931,Woodward,Aerospace &  Defense,Aerospace and Defense,"Fort Collins,  CO",2099,200,6829
+932,F5 Networks,Technology,Network and Other Communications Equipment,"Seattle,  WA",2090,420,4366
+933,Valvoline,Chemicals,Chemicals,"Lexington,  KY",2084,304,5600
+934,Roadrunner Transportation Systems,Transportation,"Trucking, Truck Leasing","Downers Grove,  IL",2082,-107,4645
+935,SemGroup,Energy,Pipelines,"Tulsa,  OK",2082,-18,1220
+936,Catalent,Health Care,Pharmaceuticals,"Franklin Township,  NJ",2075,109,10800
+937,Quorum Health,Health Care,Health Care: Medical Facilities,"Brentwood,  TN",2072,-115,11250
+938,Universal,"Food, Beverages &  Tobacco",Tobacco,"Richmond,  VA",2071,106,24000
+939,Nordson,Industrials,Industrial Machinery,"Westlake,  OH",2067,295,7532
+940,ResMed,Health Care,Medical Products and Equipment,"San Diego,  CA",2067,342,6080
+941,Tower International,Motor Vehicles &  Parts,Motor Vehicles and Parts,"Livonia,  MI",2066,47,7600
+942,Freds,Food &  Drug Stores,Food and Drug Stores,"Memphis,  TN",2064,-141,7324
+943,Foundation Building Materials,Wholesalers,Wholesalers: Diversified,"Tustin,  CA",2061,82,3782
+944,Kennametal,Industrials,Industrial Machinery,"Pittsburgh,  PA",2058,49,10744
+945,Autodesk,Technology,Computer Software,"San Rafael,  CA",2057,-567,8800
+946,Ply Gem Holdings,Materials,"Building Materials, Glass","Cary,  NC",2056,68,9471
+947,Central Garden & Pet,Household Products,Household and Personal Products,"Walnut Creek,  CA",2055,78,4050
+948,Matson,Transportation,Shipping,"Honolulu,  HI",2047,232,1947
+949,EchoStar,Technology,Network and Other Communications Equipment,"Englewood,  CO",2039,392,2100
+950,Genesis Energy,Energy,Pipelines,"Houston,  TX",2028,82,2100
+951,SVB Financial Group,Financials,Commercial Banks,"Santa Clara,  CA",2022,490,2438
+952,Itron,Industrials,"Electronics, Electrical Equip.","Liberty Lake,  WA",2018,57,7150
+953,Portland General Electric,Energy,Utilities: Gas and Electric,"Portland,  OR",2009,187,2906
+954,California Resources,Energy,"Mining, Crude-Oil Production","Los Angeles,  CA",2006,-266,1450
+955,Esterline Technologies,Aerospace &  Defense,Aerospace and Defense,"Bellevue,  WA",2005,111,13255
+956,Delta Tucker Holdings,Aerospace &  Defense,Aerospace and Defense,"McLean,  VA",2004,30,8800
+957,AMN Healthcare Services,Health Care,Health Care: Pharmacy and Other Services,"San Diego,  CA",1989,132,2980
+958,Griffon,Materials,"Building Materials, Glass","New York,  NY",1986,14,4700
+959,Valhi,Chemicals,Chemicals,"Dallas,  TX",1980,207,2790
+960,Hexcel,Aerospace &  Defense,Aerospace and Defense,"Stamford,  CT",1973,284,6259
+961,IDEXX Laboratories,Health Care,Medical Products and Equipment,"Westbrook,  ME",1969,263,7600
+962,Deluxe,Media,"Publishing, Printing","Shoreview,  MN",1966,230,5886
+963,M/I Homes,Engineering &  Construction,Homebuilders,"Columbus,  OH",1962,72,1238
+964,Kraton,Chemicals,Chemicals,"Houston,  TX",1960,97,1931
+965,Stewart Information Services,Financials,Insurance: Property and Casualty (Stock),"Houston,  TX",1956,48,5960
+966,Marriott Vacations Worldwide,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Orlando,  FL",1952,226,11000
+967,SPX FLOW,Industrials,Industrial Machinery,"Charlotte,  NC",1952,46,7000
+968,ACCO Brands,Household Products,"Home Equipment, Furnishings","Lake Zurich,  IL",1949,131,6620
+969,Echo Global Logistics,Transportation,Transportation and Logistics,"Chicago,  IL",1943,12,2453
+970,Cadence Design Systems,Technology,Computer Software,"San Jose,  CA",1943,204,7214
+971,Nuance Communications,Technology,Computer Software,"Burlington,  MA",1939,-151,11600
+972,Finish Line,Retailing,Specialty Retailers: Apparel,"Indianapolis,  IN",1934,-19,8200
+973,TransUnion,Business Services,Financial Data Services,"Chicago,  IL",1934,441,5100
+974,ServiceNow,Technology,Computer Software,"Santa Clara,  CA",1933,-150,6222
+975,Summit Materials,Materials,"Building Materials, Glass","Denver,  CO",1933,121,6000
+976,Engility Holdings,Aerospace &  Defense,Aerospace and Defense,"Chantilly,  VA",1932,-36,8700
+977,Ferrellgas Partners,Energy,Energy,"Overland Park,  KS",1930,-55,3891
+978,Interactive Brokers Group,Financials,Securities,"Greenwich,  CT",1927,76,1228
+979,Stepan,Chemicals,Chemicals,"Northfield,  IL",1925,91,2096
+980,Oceaneering International,Energy,"Oil and Gas Equipment, Services","Houston,  TX",1922,166,8200
+981,Cimarex Energy,Energy,"Mining, Crude-Oil Production","Denver,  CO",1918,494,910
+982,Rexnord,Industrials,Industrial Machinery,"Milwaukee,  WI",1918,74,8000
+983,Beazer Homes USA,Engineering &  Construction,Homebuilders,"Atlanta,  GA",1916,31,1100
+984,MKS Instruments,Technology,Semiconductors and Other Electronic Components,"Andover,  MA",1916,339,4923
+985,Vail Resorts,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts","Broomfield,  CO",1907,210,20150
+986,Ohio National Mutual,Financials,"Insurance: Life, Health (stock)","Cincinnati,  OH",1907,25,1300
+987,TopBuild,Engineering &  Construction,"Engineering, Construction","Daytona Beach,  FL",1906,158,8400
+988,Brown & Brown,Financials,Insurance: Property and Casualty (Stock),"Daytona Beach,  FL",1881,399,8491
+989,Aerojet Rocketdyne Holdings,Aerospace &  Defense,Aerospace and Defense,"El Segundo,  CA",1877,-10,5157
+990,Barnes & Noble Education,Retailing,Specialty Retailers: Other,"Bernards,  NJ",1874,5,13375
+991,Superior Energy Services,Energy,"Oil and Gas Equipment, Services","Houston,  TX",1874,-206,6400
+992,VeriFone Systems,Technology,Financial Data Services,"San Jose,  CA",1871,-174,5600
+993,Childrens Place,Retailing,Specialty Retailers: Apparel,"Secaucus,  NJ",1870,84,9800
+994,Tribune Media,Media,Entertainment,"Chicago,  IL",1867,194,6000
+995,Healthcare Services Group,Health Care,Health Care: Pharmacy and Other Services,"Bensalem,  PA",1866,88,55000
+996,SiteOne Landscape Supply,Wholesalers,Wholesalers: Diversified,"Roswell,  GA",1862,54,3664
+997,Charles River Laboratories Intl,Health Care,Health Care: Pharmacy and Other Services,"Wilmington,  MA",1858,123,11800
+998,CoreLogic,Business Services,Financial Data Services,"Irvine,  CA",1851,152,5900
+999,Ensign Group,Health Care,Health Care: Medical Facilities,"Mission Viejo,  CA",1849,40,21301
+1000,HCP,Financials,Real estate,"Irvine,  CA",1848,414,190

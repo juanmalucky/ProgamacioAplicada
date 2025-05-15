@@ -1,0 +1,31 @@
+sale_id,cust_id,prod_id,product,qty,store_location
+101,30,5,Heater,2,Fairview Mall
+102,20,14,Piano,2,Rotunda
+103,20,17,Microwave,1,Kessington Market
+104,5,3,Speaker,3,Fairview Mall
+105,10,4,Humidifier,1,Shoppers
+106,14,4,Humidifier,1,Shoppers
+107,28,2,Printer,3,Kessington Market
+108,27,14,Piano,2,Brisby Mall
+109,4,5,Heater,2,Brisby Mall
+110,8,3,Speaker,3,Shoppers
+111,30,4,Humidifier,2,Shoppers
+112,8,13,Microphone,2,Kessington Market
+113,13,5,Heater,2,Shoppers
+114,30,15,Tripod,2,Rotunda
+115,20,13,Microphone,2,Kessington Market
+116,2,3,Speaker,2,Brisby Mall
+117,10,3,Speaker,3,Kessington Market
+118,8,17,Microwave,3,Shoppers
+119,5,5,Heater,2,Rotunda
+120,28,1,Headphone,1,Brisby Mall
+121,4,5,Heater,3,Shoppers
+122,24,16,Mixer,2,Brisby Mall
+123,10,1,Headphone,2,Kessington Market
+124,13,15,Tripod,1,Brisby Mall
+125,27,17,Microwave,3,Shoppers
+126,7,2,Printer,2,Kessington Market
+127,24,14,Piano,1,Kessington Market
+128,15,13,Microphone,1,Rotunda
+129,14,19,Dryer,1,Brisby Mall
+130,13,18,Washer,2,Shoppers
