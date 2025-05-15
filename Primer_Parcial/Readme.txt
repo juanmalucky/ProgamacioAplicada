@@ -1,1 +1,1 @@
-Esta carpeta corresponde a la entrea del parcial_1
+Esta carpeta corresponde a la entrega del parcial_1
