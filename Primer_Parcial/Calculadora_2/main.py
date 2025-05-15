@@ -1,4 +1,4 @@
-from calculadora import Calculadora
+from clase import Calculadora
 
 calc = Calculadora(a, b)
 
