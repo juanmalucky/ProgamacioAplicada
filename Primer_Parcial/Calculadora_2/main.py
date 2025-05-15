@@ -1,4 +1,4 @@
-from calculadora_2 import Calculadora
+from calculadora import Calculadora
 
 calc = Calculadora(a, b)
 
