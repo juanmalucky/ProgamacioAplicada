@@ -1,6 +1,6 @@
 # menu.py
 
-from cajero import Cajero
+from clase import Cajero
 
 def menu():
     cajero = Cajero(1000)  # Se crea una instancia de Cajero con $1000 de saldo inicial
