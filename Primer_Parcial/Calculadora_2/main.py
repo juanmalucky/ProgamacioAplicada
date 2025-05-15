@@ -1,3 +1,5 @@
+from calculadora_2 import Calculadora
+
 calc = Calculadora(a, b)
 
 print("El resultado de la suma es:", calc.sumar())
