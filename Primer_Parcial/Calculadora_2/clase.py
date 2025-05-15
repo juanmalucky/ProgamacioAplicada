@@ -18,6 +18,3 @@ class Calculadora:
             return resultado
         except ZeroDivisionError:
             return "Error: No se puede dividir por cero"
-
-a = float(input("Ingrese el primer número: "))
-b = float(input("Ingrese el segundo número: "))
